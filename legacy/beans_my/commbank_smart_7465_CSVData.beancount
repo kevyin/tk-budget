@@ -1,0 +1,136 @@
+;; -*- mode: beancount -*-
+**** /home/kevin/dev/kev/finance/finances/data/new_raws/commbank_smart_7465_CSVData.csv
+
+2020-07-01 * "Loan Repayment LN REPAY 782749832" ""
+  Assets:Commbank:SmartAccess  -286.00 AUD
+  Expenses:Unknown                        
+
+2020-07-02 * "Loan Repayment LN REPAY 782749904" ""
+  Assets:Commbank:SmartAccess  -605.10 AUD
+  Expenses:Unknown                        
+
+2020-07-29 * "Direct Credit 421520 KEVIN YING repayment" ""
+  Assets:Commbank:SmartAccess  1000.00 AUD
+  Expenses:Unknown                        
+
+2020-08-03 * "Loan Repayment LN REPAY 782749832" ""
+  Assets:Commbank:SmartAccess  -276.00 AUD
+  Expenses:Unknown                        
+
+2020-08-04 * "Loan Repayment LN REPAY 782749904" ""
+  Assets:Commbank:SmartAccess  -625.27 AUD
+  Expenses:Unknown                        
+
+2020-08-08 * "Transfer To T LUONG PayID Phone from CommBank App groceries" ""
+  Assets:Commbank:SmartAccess  -29.00 AUD
+  Expenses:Unknown                       
+
+2020-08-21 * "Transfer To T LUONG PayID Phone from CommBank App groceries" ""
+  Assets:Commbank:SmartAccess  -40.00 AUD
+  Expenses:Unknown                       
+
+2020-08-31 * "Direct Credit 421520 KEVIN YING repayment" ""
+  Assets:Commbank:SmartAccess  1000.00 AUD
+  Expenses:Unknown                        
+
+2020-09-01 * "Loan Repayment LN REPAY 782749832" ""
+  Assets:Commbank:SmartAccess  -276.00 AUD
+  Expenses:Unknown                        
+
+2020-09-02 * "Loan Repayment LN REPAY 782749904" ""
+  Assets:Commbank:SmartAccess  -625.27 AUD
+  Expenses:Unknown                        
+
+2020-09-29 * "Direct Credit 421520 KEVIN YING repayment" ""
+  Assets:Commbank:SmartAccess  1000.00 AUD
+  Expenses:Unknown                        
+
+2020-10-01 * "Loan Repayment LN REPAY 782749832" ""
+  Assets:Commbank:SmartAccess  -276.00 AUD
+  Expenses:Unknown                        
+
+2020-10-02 * "Loan Repayment LN REPAY 782749904" ""
+  Assets:Commbank:SmartAccess  -605.10 AUD
+  Expenses:Unknown                        
+
+2020-10-24 * "Transfer to other Bank NetBank" ""
+  Assets:Commbank:SmartAccess  -3000.00 AUD
+  Expenses:Unknown                         
+
+2020-10-29 * "Direct Credit 421520 KEVIN YING repayment" ""
+  Assets:Commbank:SmartAccess  1000.00 AUD
+  Expenses:Unknown                        
+
+2020-11-02 * "Loan Repayment LN REPAY 782749832" ""
+  Assets:Commbank:SmartAccess  -276.00 AUD
+  Expenses:Unknown                        
+
+2020-11-03 * "Loan Repayment LN REPAY 782749904" ""
+  Assets:Commbank:SmartAccess  -625.27 AUD
+  Expenses:Unknown                        
+
+2020-11-18 * "BAYSIDE CNL RATES NetBank BPAY 10272 536677" ""
+  Assets:Commbank:SmartAccess  -346.00 AUD
+  Expenses:Unknown                        
+
+2020-11-30 * "Direct Credit 421520 KEVIN YING repayment" ""
+  Assets:Commbank:SmartAccess  1000.00 AUD
+  Expenses:Unknown                        
+
+2020-12-01 * "Loan Repayment LN REPAY 782749832" ""
+  Assets:Commbank:SmartAccess  -276.00 AUD
+  Expenses:Unknown                        
+
+2020-12-02 * "Loan Repayment LN REPAY 782749904" ""
+  Assets:Commbank:SmartAccess  -605.10 AUD
+  Expenses:Unknown                        
+
+2020-12-20 * "Transfer to other Bank NetBank" ""
+  Assets:Commbank:SmartAccess  -100.00 AUD
+  Expenses:Unknown                        
+
+2020-12-20 * "Transfer To T LUONG PayID Phone from CommBank App presents" ""
+  Assets:Commbank:SmartAccess  -146.00 AUD
+  Expenses:Unknown                        
+
+2020-12-29 * "Direct Credit 421520 KEVIN YING repayment" ""
+  Assets:Commbank:SmartAccess  1000.00 AUD
+  Expenses:Unknown                        
+
+2021-01-04 * "Loan Repayment LN REPAY 782749832" ""
+  Assets:Commbank:SmartAccess  -276.00 AUD
+  Expenses:Unknown                        
+
+2021-01-05 * "Loan Repayment LN REPAY 782749904" ""
+  Assets:Commbank:SmartAccess  -625.27 AUD
+  Expenses:Unknown                        
+
+2021-01-05 * "Transfer To T LUONG PayID Phone from CommBank App knitting" ""
+  Assets:Commbank:SmartAccess  -9.90 AUD
+  Expenses:Unknown                      
+
+2021-01-08 * "Transfer To kevin ying macquarie CommBank App hongbao" ""
+  Assets:Commbank:SmartAccess  -400.00 AUD
+  Expenses:Unknown                        
+
+2021-01-19 * "Transfer to other Bank NetBank" ""
+  Assets:Commbank:SmartAccess  -1943.42 AUD
+  Expenses:Unknown                         
+
+2021-03-01 * "Account Fee" ""
+  Assets:Commbank:SmartAccess  -0.86 AUD
+  Expenses:Unknown                      
+
+2021-03-05 * "Closed Account Branch 48 MARTIN PL SYDNEY" ""
+  Assets:Commbank:SmartAccess  0.65 AUD
+  Expenses:Unknown                     
+
+2021-03-05 * "Account Fee" ""
+  Assets:Commbank:SmartAccess  -0.65 AUD
+  Expenses:Unknown                      
+
+2021-03-05 * "Transfer from xx5860 CommBank app" ""
+  Assets:Commbank:SmartAccess  0.86 AUD
+  Expenses:Unknown                     
+
+

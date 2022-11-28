@@ -1,0 +1,572 @@
+;; -*- mode: beancount -*-
+**** /home/kevin/dev/kev/finance/finances/data/new_raws/westpac_choice_15082021.csv
+
+2020-07-01 * "DEPOSIT ONLINE 2080573 TFR Westpac One" ""
+  Assets:Westpac:Choice   900.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-07-03 * "WITHDRAWAL MOBILE 1847754 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-07-13 * "WITHDRAWAL MOBILE 1382232 TFR Westpac One" ""
+  Assets:Westpac:Choice   -1000.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-07-13 * "WITHDRAWAL-OSKO PAYMENT 1086470 Australia Automotive Group Pty LTD Kia Cerato Kia Cerato" ""
+  Assets:Westpac:Choice  -23285.00 AUD
+  Expenses:Unknown                    
+
+2020-07-14 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-07-16 * "DEPOSIT ONLINE 2286521 TFR Westpac One" ""
+  Assets:Westpac:Choice   6000.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-07-21 * "Payment by Authority to Agl Retail Energ 030008103154" ""
+  Assets:Westpac:Choice   -140.92 AUD
+  Expenses:Utilities:Gas             
+
+2020-07-21 * "DEPOSIT ONLINE 2952424 TFR Westpac One" ""
+  Assets:Westpac:Choice   400.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-07-23 * "WITHDRAWAL MOBILE 1248637 TFR Westpac One" ""
+  Assets:Westpac:Choice   -500.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-07-24 * "Payment by Authority to Sydney Water 116600018304" ""
+  Assets:Westpac:Choice            -147.31 AUD
+  Expenses:Rhodes:Utilities:Water             
+
+2020-07-28 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-07-28 * "DEPOSIT ONLINE 2349601 TFR Westpac One" ""
+  Assets:Westpac:Choice   820.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-07-29 * "WITHDRAWAL ONLINE 1420636 PYMT Kevin Ying 63k Repayment" ""
+  Assets:Westpac:Choice         -300.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-07-29 * "WITHDRAWAL ONLINE 1401837 PYMT Everyday O Repayment" ""
+  Assets:Westpac:Choice  -1000.00 AUD
+  Expenses:Unknown                   
+
+2020-07-31 * "DEPOSIT ONLINE 2778057 TFR Westpac One" ""
+  Assets:Westpac:Choice   2500.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-08-03 * "Payment by Authority to Agl Sales Pty Lt 180007458757" ""
+  Assets:Westpac:Choice   -315.85 AUD
+  Expenses:Utilities:Gas             
+
+2020-08-03 * "WITHDRAWAL MOBILE 1540458 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-08-05 * "DEPOSIT ONLINE 2388302 TFR Westpac One" ""
+  Assets:Westpac:Choice   8000.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-08-06 * "Deposit         Miranda NSW" ""
+  Assets:Westpac:Choice  3000.00 AUD
+  Income:MinHuang                   
+
+2020-08-07 * "WITHDRAWAL ONLINE 1790907 TFR Westpac One" ""
+  Assets:Westpac:Choice   -40000.00 AUD
+  Assets:Westpac:OneMain               
+
+2020-08-11 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-08-14 * "Deposit         Miranda NSW" ""
+  Assets:Westpac:Choice  3000.00 AUD
+  Income:MinHuang                   
+
+2020-08-14 * "DEPOSIT ONLINE 2236163 TFR Westpac One" ""
+  Assets:Westpac:Choice   6000.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-08-27 * "DEPOSIT ONLINE 2928407 TFR Westpac One" ""
+  Assets:Westpac:Choice   1000.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-08-28 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-08-31 * "WITHDRAWAL ONLINE 1381482 PYMT Kevin Ying 63k Repayment" ""
+  Assets:Westpac:Choice         -300.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-08-31 * "WITHDRAWAL ONLINE 1353308 PYMT Everyday O Repayment" ""
+  Assets:Westpac:Choice  -1000.00 AUD
+  Expenses:Unknown                   
+
+2020-09-01 * "DEPOSIT ONLINE 2898025 TFR Westpac One" ""
+  Assets:Westpac:Choice   500.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-09-03 * "WITHDRAWAL MOBILE 1969039 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3500.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-09-07 * "Payment by Authority to Deft Payments Deft      21013152" ""
+  Assets:Westpac:Choice            -1144.48 AUD
+  Expenses:Wolli:Utilities:Strata              
+
+2020-09-07 * "Payment by Authority to Deft Payments Deft      21003598" ""
+  Assets:Westpac:Choice            -1143.55 AUD
+  Expenses:Wolli:Utilities:Strata              
+
+2020-09-09 * "DEPOSIT ONLINE 2525042 TFR Westpac One" ""
+  Assets:Westpac:Choice   1000.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-09-11 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-09-14 * "DEPOSIT ONLINE 2992661 TFR Westpac One" ""
+  Assets:Westpac:Choice   5500.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-09-28 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-09-28 * "DEPOSIT ONLINE 2484274 TFR Westpac One" ""
+  Assets:Westpac:Choice   600.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-09-29 * "WITHDRAWAL ONLINE 1461789 PYMT Kevin Ying 63k Repayment" ""
+  Assets:Westpac:Choice         -300.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-09-29 * "WITHDRAWAL ONLINE 1404269 PYMT Everyday O Repayment" ""
+  Assets:Westpac:Choice  -1000.00 AUD
+  Expenses:Unknown                   
+
+2020-09-30 * "Payment by Authority to City of Canada B 34271" ""
+  Assets:Westpac:Choice              -291.56 AUD
+  Expenses:Rhodes:Utilities:Council             
+
+2020-09-30 * "DEPOSIT ONLINE 2201135 TFR Westpac One" ""
+  Assets:Westpac:Choice   1500.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-10-02 * "WITHDRAWAL MOBILE 1625862 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-10-05 * "WITHDRAWAL MOBILE 1128166 TFR Westpac One" ""
+  Assets:Westpac:Choice   -500.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-10-05 * "WITHDRAWAL MOBILE 1114448 TFR Westpac One" ""
+  Assets:Westpac:Choice   -500.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-10-05 * "DEPOSIT ONLINE 2082403 TFR Westpac One" ""
+  Assets:Westpac:Choice   500.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-10-06 * "DEPOSIT ONLINE 2062114 TFR Westpac One" ""
+  Assets:Westpac:Choice   640.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-10-12 * "Deposit Hurstville NSW" ""
+  Assets:Westpac:Choice  4500.00 AUD
+  Income:MinHuang                   
+
+2020-10-13 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-10-14 * "DEPOSIT ONLINE 2275555 TFR Westpac One" ""
+  Assets:Westpac:Choice   5000.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-10-20 * "DEPOSIT ONLINE 2159012 TFR Westpac One" ""
+  Assets:Westpac:Choice   640.00 AUD
+  Assets:Westpac:OneMain            
+
+2020-10-21 * "PAYMENT BY AUTHORITY TO Kevin Ying 39591" ""
+  Assets:Westpac:Choice  -30000.00 AUD
+  Expenses:Unknown                    
+
+2020-10-23 * "WITHDRAWAL-OSKO PAYMENT 1794454 Lexsons Law Firm Trust Account Lexson 24/80 Bonar St Wolli Creek Kevin Ying" ""
+  Assets:Westpac:Choice  -1500.00 AUD
+  Expenses:Unknown                   
+
+2020-10-26 * "Payment by Authority to Agl Retail Energ 740008856310" ""
+  Assets:Westpac:Choice   -100.25 AUD
+  Expenses:Utilities:Gas             
+
+2020-10-26 * "WITHDRAWAL-OSKO PAYMENT 1192761 PDK PROPERTY SERVICE Painting 24/80 Bonar St" ""
+  Assets:Westpac:Choice  -1485.00 AUD
+  Expenses:Unknown                   
+
+2020-10-27 * "Payment by Authority to Sydney Water 114400024253" ""
+  Assets:Westpac:Choice            -147.31 AUD
+  Expenses:Rhodes:Utilities:Water             
+
+2020-10-28 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-10-29 * "WITHDRAWAL ONLINE 1464705 PYMT Kevin Ying 63k Repayment" ""
+  Assets:Westpac:Choice         -300.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-10-29 * "WITHDRAWAL ONLINE 1454423 PYMT Everyday O Repayment" ""
+  Assets:Westpac:Choice  -1000.00 AUD
+  Expenses:Unknown                   
+
+2020-11-02 * "WITHDRAWAL MOBILE 1530349 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-11-02 * "DEPOSIT ONLINE 2415663 TFR Westpac One" ""
+  Assets:Westpac:Choice   1600.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-11-03 * "Withdrawal-Osko Payment 1011544 PDK Property Service" ""
+  Assets:Westpac:Choice  -1485.00 AUD
+  Expenses:Unknown                   
+
+2020-11-03 * "DEPOSIT ONLINE 2028904 TFR Westpac One" ""
+  Assets:Westpac:Choice   4000.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-11-04 * "WITHDRAWAL-OSKO PAYMENT 1915046 Spatial Image PTY LTD 24/80 Bonar 24/80 Bonar" ""
+  Assets:Westpac:Choice  -3685.00 AUD
+  Expenses:Unknown                   
+
+2020-11-06 * "WITHDRAWAL ONLINE 1351996 PYMT Wentworth Marketing 24 80 Bo" ""
+  Assets:Westpac:Choice  -3000.00 AUD
+  Expenses:Unknown                   
+
+2020-11-09 * "Payment by Authority to Agl Sales Pty Lt 390008412297" ""
+  Assets:Westpac:Choice           -313.02 AUD
+  Expenses:Utilities:Electricity             
+
+2020-11-09 * "WITHDRAWAL MOBILE 1607862 TFR Westpac One" ""
+  Assets:Westpac:Choice   -1295.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-11-09 * "Deposit Hurstville NSW" ""
+  Assets:Westpac:Choice  2800.00 AUD
+  Income:MinHuang                   
+
+2020-11-11 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-11-16 * "DEPOSIT ONLINE 2489893 TFR Westpac One" ""
+  Assets:Westpac:Choice   5980.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-11-27 * "Payment by Authority to Agl Sales Pty Lt 180007721447" ""
+  Assets:Westpac:Choice   -54.12 AUD
+  Expenses:Utilities:Gas            
+
+2020-11-30 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-11-30 * "Payment by Authority to City of Canada B 34271" ""
+  Assets:Westpac:Choice              -288.00 AUD
+  Expenses:Rhodes:Utilities:Council             
+
+2020-11-30 * "WITHDRAWAL ONLINE 1444487 PYMT Everyday O Repayment" ""
+  Assets:Westpac:Choice  -1000.00 AUD
+  Expenses:Unknown                   
+
+2020-11-30 * "WITHDRAWAL ONLINE 1410841 PYMT Kevin Ying 63k Repayment" ""
+  Assets:Westpac:Choice         -300.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-12-02 * "WITHDRAWAL MOBILE 1437540 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2020-12-14 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2020-12-16 * "Deposit Hurstville NSW" ""
+  Assets:Westpac:Choice  3000.00 AUD
+  Income:MinHuang                   
+
+2020-12-16 * "DEPOSIT ONLINE 2288022 TFR Westpac One" ""
+  Assets:Westpac:Choice   6500.00 AUD
+  Assets:Westpac:OneMain             
+
+2020-12-17 * "Payment by Authority to Agl Retail Energ 280008305881" ""
+  Assets:Westpac:Choice   -51.11 AUD
+  Expenses:Utilities:Gas            
+
+2020-12-29 * "WITHDRAWAL ONLINE 1506035 PYMT Kevin Ying 63k Repayment" ""
+  Assets:Westpac:Choice         -300.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-12-29 * "WITHDRAWAL ONLINE 1498370 PYMT Everyday O Repayment" ""
+  Assets:Westpac:Choice  -1000.00 AUD
+  Expenses:Unknown                   
+
+2020-12-30 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-01-04 * "WITHDRAWAL MOBILE 1416474 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-01-13 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-01-18 * "DEPOSIT ONLINE 2066099 TFR Westpac One" ""
+  Assets:Westpac:Choice   6800.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-01-19 * "WITHDRAWAL ONLINE 1312764 TFR Westpac One" ""
+  Assets:Westpac:Choice   -100000.00 AUD
+  Assets:Westpac:OneMain                
+
+2021-01-19 * "DEPOSIT Wentworth Manage        Century 21 Souther" ""
+  Assets:Westpac:Choice  53495.00 AUD
+  Expenses:Unknown                   
+
+2021-01-19 * "Electronic Property Settlement 200649 Cs Pexa205416984d09f01" ""
+  Assets:Westpac:Choice  151264.44 AUD
+  Expenses:Unknown                    
+
+2021-01-20 * "PAYMENT BY AUTHORITY TO Kevin Ying 144347" ""
+  Assets:Westpac:Choice  -50000.00 AUD
+  Expenses:Unknown                    
+
+2021-01-20 * "DEPOSIT KEVIN YING        Transfer" ""
+  Assets:Westpac:Choice  1943.42 AUD
+  Income:KevinYing                  
+
+2021-01-20 * "DEPOSIT KEVIN YING        Transfer" ""
+  Assets:Westpac:Choice  1283.12 AUD
+  Income:KevinYing                  
+
+2021-01-21 * "WITHDRAWAL MOBILE 1870409 TFR Westpac One" ""
+  Assets:Westpac:Choice   -500.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-01-21 * "WITHDRAWAL MOBILE 1540563 TFR Westpac One" ""
+  Assets:Westpac:Choice   -50000.00 AUD
+  Assets:Westpac:OneMain               
+
+2021-01-21 * "WITHDRAWAL MOBILE 1520482 TFR Westpac One" ""
+  Assets:Westpac:Choice   -300.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-01-21 * "DEPOSIT ONLINE 2514187 TFR Westpac One" ""
+  Assets:Westpac:Choice   50000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-01-28 * "Payment by Authority to Sydney Water 115700039174" ""
+  Assets:Westpac:Choice            -144.11 AUD
+  Expenses:Rhodes:Utilities:Water             
+
+2021-01-29 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-02-01 * "DEPOSIT ONLINE 2161842 TFR Westpac One" ""
+  Assets:Westpac:Choice   1000.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-02-02 * "WITHDRAWAL MOBILE 1439557 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-02-03 * "Payment by Authority to Deft Payments Deft      22272973" ""
+  Assets:Westpac:Choice            -1008.75 AUD
+  Expenses:Wolli:Utilities:Strata              
+
+2021-02-11 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-02-15 * "DEPOSIT ONLINE 2201551 TFR Westpac One" ""
+  Assets:Westpac:Choice   6400.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-02-24 * "PAYMENT BY AUTHORITY TO Kevin Ying 186751" ""
+  Assets:Westpac:Choice  -50000.00 AUD
+  Expenses:Unknown                    
+
+2021-02-24 * "DEPOSIT-OSKO PAYMENT 2412230 MIN HUANG Payment" ""
+  Assets:Westpac:Choice  3000.00 AUD
+  Income:MinHuang                   
+
+2021-03-01 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-03-01 * "Payment by Authority to City of Canada B 34271" ""
+  Assets:Westpac:Choice              -288.00 AUD
+  Expenses:Rhodes:Utilities:Council             
+
+2021-03-02 * "WITHDRAWAL MOBILE 1564195 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-03-08 * "WITHDRAWAL MOBILE 1383577 TFR Westpac One" ""
+  Assets:Westpac:Choice   -600.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-03-12 * "DEPOSIT Kevin Ying        205297" ""
+  Assets:Westpac:Choice  20000.00 AUD
+  Income:KevinYing                   
+
+2021-03-15 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-03-15 * "WITHDRAWAL MOBILE 1083827 TFR Westpac One" ""
+  Assets:Westpac:Choice   -20000.00 AUD
+  Assets:Westpac:OneMain               
+
+2021-03-29 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-03-30 * "DEPOSIT ONLINE 2380245 TFR Westpac One" ""
+  Assets:Westpac:Choice   27000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-04-06 * "Withdrawal Online 2212236 Bpay Unisuper M" ""
+  Assets:Westpac:Choice     -20000.00 AUD
+  Expenses:Insurance:Super               
+
+2021-04-06 * "WITHDRAWAL MOBILE 1526577 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-04-13 * "Deposit         Sylvania NSW" ""
+  Assets:Westpac:Choice  3500.00 AUD
+  Expenses:Unknown                  
+
+2021-04-14 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-04-15 * "PAYMENT BY AUTHORITY TO EnergyAustralia 792577856736" ""
+  Assets:Westpac:Choice           -263.16 AUD
+  Expenses:Utilities:Electricity             
+
+2021-04-19 * "PAYMENT BY AUTHORITY TO EnergyAustralia 383387948102" ""
+  Assets:Westpac:Choice   -52.06 AUD
+  Expenses:Utilities:Gas            
+
+2021-04-28 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-04-28 * "Payment by Authority to Sydney Water 115400047656" ""
+  Assets:Westpac:Choice            -145.71 AUD
+  Expenses:Rhodes:Utilities:Water             
+
+2021-05-03 * "WITHDRAWAL MOBILE 1576487 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-05-05 * "Payment by Authority to Deft Payments Deft      23041473" ""
+  Assets:Westpac:Choice            -1019.30 AUD
+  Expenses:Wolli:Utilities:Strata              
+
+2021-05-10 * "DEPOSIT ONLINE 2860693 TFR Westpac One" ""
+  Assets:Westpac:Choice   6000.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-05-12 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-05-14 * "DEPOSIT ONLINE 2227349 TFR Westpac One" ""
+  Assets:Westpac:Choice   4000.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-05-14 * "DEPOSIT ONLINE 2211851 TFR Westpac One" ""
+  Assets:Westpac:Choice   2000.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-05-18 * "DEPOSIT ONLINE 2319534 TFR Westpac One" ""
+  Assets:Westpac:Choice   500.00 AUD
+  Assets:Westpac:OneMain            
+
+2021-05-18 * "DEPOSIT ONLINE 2136548 TFR Westpac One" ""
+  Assets:Westpac:Choice   1000.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-05-27 * "PAYMENT BY AUTHORITY TO Vanguard87532495 306352" ""
+  Assets:Westpac:Choice  -200000.00 AUD
+  Expenses:Unknown                     
+
+2021-05-27 * "Fee for Overseas Telegraphic Transfer 0147397" ""
+  Assets:Westpac:Choice  -12.00 AUD
+  Expenses:Unknown                 
+
+2021-05-27 * "Proceeds Overseas Telegraphic Transfer 147397 USD242212.18@0.8020 Illumina Cambridge LTD" ""
+  Assets:Westpac:Choice  302010.20 AUD
+  Expenses:Unknown                    
+
+2021-05-28 * "PAYMENT BY AUTHORITY TO EnergyAustralia 792004199434" ""
+  Assets:Westpac:Choice           -233.55 AUD
+  Expenses:Utilities:Electricity             
+
+2021-05-28 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-05-28 * "Deposit         Miranda NSW" ""
+  Assets:Westpac:Choice  4000.00 AUD
+  Income:MinHuang                   
+
+2021-05-31 * "Payment by Authority to City of Canada B 34271" ""
+  Assets:Westpac:Choice              -288.00 AUD
+  Expenses:Rhodes:Utilities:Council             
+
+2021-05-31 * "DEPOSIT EBC Fee Refund        0001992 SN-1063105" ""
+  Assets:Westpac:Choice  85.50 AUD
+  Expenses:Unknown                
+
+2021-05-31 * "DEPOSIT ONLINE 2572810 TFR Westpac One" ""
+  Assets:Westpac:Choice   5000.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-06-02 * "WITHDRAWAL MOBILE 1629199 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-06-11 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -59.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+2021-06-14 * "WITHDRAWAL ONLINE 1201194 TFR Westpac One" ""
+  Assets:Westpac:Choice   -3000.00 AUD
+  Assets:Westpac:OneMain              
+
+2021-06-21 * "DEPOSIT ONLINE 2192500 TFR Westpac One" ""
+  Assets:Westpac:Choice   9000.00 AUD
+  Assets:Westpac:OneMain             
+
+2021-06-29 * "Payment by Authority to Exetel 259680" ""
+  Assets:Westpac:Choice               -14.99 AUD
+  Expenses:Utilities:Internet:Exetel            
+
+

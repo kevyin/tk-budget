@@ -1,0 +1,2104 @@
+;; -*- mode: beancount -*-
+**** /home/kevin/dev/kev/finance/finances/data/new_raws/westpac_onemain_15082021.csv
+
+2020-07-01 * "WITHDRAWAL MOBILE 1080573 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -900.00 AUD
+  Assets:Westpac:Choice              
+
+2020-07-01 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-07-01 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -17.55 AUD
+  Expenses:Food:Groceries            
+
+2020-07-01 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -14.90 AUD
+  Expenses:Food:Restaurant            
+
+2020-07-01 * "Debit Card Purchase Cafe 10 Sydney         Ultimo       Aus" ""
+  Assets:Westpac:OneMain    -9.00 AUD
+  Expenses:Food:Restaurant           
+
+2020-07-01 * "Atm Deposit Handybank Town Hall Cd 23797027 01/07/20" ""
+  Assets:Westpac:OneMain  257.45 AUD
+  Expenses:Unknown                  
+
+2020-07-01 * "Atm Deposit Handybank Town Hall Cd 23797035 01/07/20" ""
+  Assets:Westpac:OneMain  61.20 AUD
+  Expenses:Unknown                 
+
+2020-07-01 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-07-02 * "Debit Card Purchase Paypal *Gog 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -81.10 AUD
+  Expenses:Paypal                   
+
+2020-07-02 * "Debit Card Purchase Paypal *Patreon  Membe 4029357733   Usa" ""
+  Assets:Westpac:OneMain  -6.41 AUD
+  Expenses:Paypal                  
+
+2020-07-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2837.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2020-07-03 * "Debit Card Purchase Paypal *Fairfaxmedi 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -628.00 AUD
+  Expenses:Paypal                    
+
+2020-07-03 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-07-03 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.33 AUD
+  Expenses:Business:AWS            
+
+2020-07-03 * "DEPOSIT ONLINE 2847755 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2020-07-06 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -10.22 AUD
+  Expenses:Food:Groceries            
+
+2020-07-06 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -5.82 AUD
+  Expenses:Food:Groceries           
+
+2020-07-06 * "DEPOSIT-OSKO PAYMENT 2461863 THERESE LUONG uniqloRebate" ""
+  Assets:Westpac:OneMain             2.50 AUD
+  Expenses:Shopping:Clothing:Uniqlo          
+
+2020-07-07 * "Debit Card Purchase Orange Supermarket Rh Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -2.49 AUD
+  Expenses:Food:Groceries           
+
+2020-07-08 * "Eftpos Credit 0045866 Ikea Rhodes Rhodes        08/07" ""
+  Assets:Westpac:OneMain  99.00 AUD
+  Expenses:IKEA                    
+
+2020-07-13 * "EFTPOS DEBIT 0212112 Yebisu Yakitori Sydney        10/07" ""
+  Assets:Westpac:OneMain    -60.17 AUD
+  Expenses:Food:Restaurant            
+
+2020-07-13 * "Eftpos Debit 0024703 Uniqlo Australia Pty Hurstville    12/07" ""
+  Assets:Westpac:OneMain             -52.70 AUD
+  Expenses:Shopping:Clothing:Uniqlo            
+
+2020-07-13 * "Debit Card Purchase Paypal *Kogan 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -59.99 AUD
+  Expenses:Paypal                   
+
+2020-07-13 * "Debit Card Purchase 200 RMS Internet/Ivr   Surry Hills  Aus" ""
+  Assets:Westpac:OneMain     -47.00 AUD
+  Expenses:Business:Driving            
+
+2020-07-13 * "Debit Card Purchase Orange Supermarket Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -30.05 AUD
+  Expenses:Food:Groceries            
+
+2020-07-13 * "DEPOSIT ONLINE 2382232 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  1000.00 AUD
+  Assets:Westpac:Choice              
+
+2020-07-14 * "Eftpos Debit 0195104 Ikea Tempe Tempe         14/07" ""
+  Assets:Westpac:OneMain  -9.00 AUD
+  Expenses:IKEA                    
+
+2020-07-14 * "Debit Card Purchase Gio Brisbane     Aus" ""
+  Assets:Westpac:OneMain  -647.47 AUD
+  Expenses:Unknown                   
+
+2020-07-14 * "DEBIT CARD PURCHASE Amazon Australia Servi MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain  -17.99 AUD
+  Expenses:Unknown                  
+
+2020-07-15 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -6.40 AUD
+  Expenses:Food:Groceries           
+
+2020-07-15 * "Debit Card Purchase Ikea Tempe             Tempe       Aus" ""
+  Assets:Westpac:OneMain  -2.98 AUD
+  Expenses:IKEA                    
+
+2020-07-15 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5786.00 AUD
+  Expenses:Unknown                   
+
+2020-07-15 * "DEPOSIT 2026491 GERALDINE SUWANGSA Rent Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-07-16 * "WITHDRAWAL MOBILE 1286519 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -6000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-07-16 * "Debit Card Purchase Orange Supermarket Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -33.85 AUD
+  Expenses:Food:Groceries            
+
+2020-07-20 * "Payment by Authority to RMS Etoll Ph:131 Rta2737354486" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2020-07-20 * "DEPOSIT-OSKO PAYMENT 2864939 THERESE LUONG Wine" ""
+  Assets:Westpac:OneMain  28.47 AUD
+  Expenses:Unknown                 
+
+2020-07-21 * "WITHDRAWAL MOBILE 1952423 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -400.00 AUD
+  Assets:Westpac:Choice              
+
+2020-07-21 * "Atm Deposit Handybank Rhodes 23221171 21/07/20" ""
+  Assets:Westpac:OneMain  400.00 AUD
+  Expenses:Unknown                  
+
+2020-07-22 * "Debit Card Purchase the Ambassador Card Oaklands Par Aus" ""
+  Assets:Westpac:OneMain  -193.92 AUD
+  Expenses:Unknown                   
+
+2020-07-22 * "Debit Card Purchase Paypal *Run Auto  Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -17.49 AUD
+  Expenses:Paypal                   
+
+2020-07-23 * "DEPOSIT ONLINE 2248637 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  500.00 AUD
+  Assets:Westpac:Choice             
+
+2020-07-24 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2020-07-27 * "Debit Card Purchase NBC-Pay & Display Park Dee Why      Aus" ""
+  Assets:Westpac:OneMain  -24.00 AUD
+  Expenses:Unknown                  
+
+2020-07-27 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -15.00 AUD
+  Expenses:Food:Groceries            
+
+2020-07-28 * "WITHDRAWAL MOBILE 1349601 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -820.00 AUD
+  Assets:Westpac:Choice              
+
+2020-07-28 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-07-31 * "WITHDRAWAL MOBILE 1778056 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -2500.00 AUD
+  Assets:Westpac:Choice               
+
+2020-07-31 * "Deposit-Salary Fowkner Pty LTD         Landlord TRF" ""
+  Assets:Westpac:OneMain  2217.92 AUD
+  Income:Wolli:Rent                  
+
+2020-08-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2837.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2020-08-03 * "Debit Card Purchase 200 RMS Internet/Ivr   Surry Hills  Aus" ""
+  Assets:Westpac:OneMain     -58.00 AUD
+  Expenses:Business:Driving            
+
+2020-08-03 * "Debit Card Purchase Paypal *Patreon  Membe 4029357733   Usa" ""
+  Assets:Westpac:OneMain  -6.13 AUD
+  Expenses:Paypal                  
+
+2020-08-03 * "DEPOSIT ONLINE 2540459 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2020-08-04 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.32 AUD
+  Expenses:Business:AWS            
+
+2020-08-05 * "WITHDRAWAL MOBILE 1388302 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -8000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-08-05 * "DEPOSIT KEVIN YING        Taxref" ""
+  Assets:Westpac:OneMain  8000.00 AUD
+  Income:KevinYing                   
+
+2020-08-06 * "Payment by Authority to RMS Etoll Ph:131 Rta2750340118" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2020-08-06 * "DEBIT CARD PURCHASE Killiney Kopitiam Chippendale  AUS" ""
+  Assets:Westpac:OneMain    -19.71 AUD
+  Expenses:Food:Restaurant            
+
+2020-08-07 * "DEPOSIT ONLINE 2790908 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  40000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-08-07 * "DEPOSIT-OSKO PAYMENT 2418026 THERESE LUONG Toll" ""
+  Assets:Westpac:OneMain  10.00 AUD
+  Expenses:Unknown                 
+
+2020-08-10 * "Eftpos Debit 0035609 Ikea Rhodes Rhodes        09/08" ""
+  Assets:Westpac:OneMain  -10.98 AUD
+  Expenses:IKEA                     
+
+2020-08-10 * "Debit Card Purchase PPR Uexp Pty LTD Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -15.95 AUD
+  Expenses:Unknown                  
+
+2020-08-10 * "DEPOSIT-OSKO PAYMENT 2918118 THERESE LUONG Groceries" ""
+  Assets:Westpac:OneMain  29.00 AUD
+  Expenses:Unknown                 
+
+2020-08-11 * "PAYMENT BY AUTHORITY TO WESTPAC SECURITI Westpac Securities" ""
+  Assets:Westpac:OneMain     -40000.00 AUD
+  Assets:Westpac:Securities               
+
+2020-08-11 * "Debit Card Purchase Paypal *Timdoddphot 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -209.94 AUD
+  Expenses:Paypal                    
+
+2020-08-11 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -7.50 AUD
+  Expenses:Food:Groceries           
+
+2020-08-11 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-08-12 * "Eftpos Debit 0035765 Ikea Rhodes Rhodes        12/08" ""
+  Assets:Westpac:OneMain  -3.00 AUD
+  Expenses:IKEA                    
+
+2020-08-14 * "WITHDRAWAL MOBILE 1236162 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -6000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-08-14 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5786.00 AUD
+  Expenses:Unknown                   
+
+2020-08-18 * "Debit Card Purchase Paypal *Gog 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -11.47 AUD
+  Expenses:Paypal                   
+
+2020-08-24 * "Debit Card Purchase Paypal *Ebay Au 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -25.00 AUD
+  Expenses:Paypal                   
+
+2020-08-25 * "Eftpos Debit 0217787 Ikea Rhodes Rhodes        25/08" ""
+  Assets:Westpac:OneMain  -8.50 AUD
+  Expenses:IKEA                    
+
+2020-08-25 * "Debit Card Purchase PPR Uexp Pty LTD Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -13.95 AUD
+  Expenses:Unknown                  
+
+2020-08-25 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2020-08-26 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -12.90 AUD
+  Expenses:Food:Restaurant            
+
+2020-08-26 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-08-27 * "WITHDRAWAL MOBILE 1928407 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -1000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-08-31 * "DEBIT CARD PURCHASE KICKSTARTER FLIPPER Z 3479902238   USA USD 119.00 Incl. Westpac Foreign Transaction Fee AUD $4.93" ""
+  Assets:Westpac:OneMain  -169.27 AUD
+  Expenses:Unknown                   
+
+2020-08-31 * "Deposit-Salary Fowkner Pty LTD         Landlord TRF" ""
+  Assets:Westpac:OneMain  531.42 AUD
+  Income:Wolli:Rent                 
+
+2020-09-01 * "WITHDRAWAL MOBILE 1898025 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -500.00 AUD
+  Assets:Westpac:Choice              
+
+2020-09-01 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -20.78 AUD
+  Expenses:Food:Groceries            
+
+2020-09-01 * "DEPOSIT-OSKO PAYMENT 2743552 THERESE LUONG Icecreamscoop" ""
+  Assets:Westpac:OneMain  6.00 AUD
+  Expenses:Unknown                
+
+2020-09-02 * "Eftpos Debit 0130492 Ikea Rhodes Rhodes        02/09" ""
+  Assets:Westpac:OneMain  -8.99 AUD
+  Expenses:IKEA                    
+
+2020-09-02 * "Debit Card Purchase Paypal *Patreon  Membe 4029357733   Usa" ""
+  Assets:Westpac:OneMain  -5.96 AUD
+  Expenses:Paypal                  
+
+2020-09-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2837.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2020-09-03 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.31 AUD
+  Expenses:Business:AWS            
+
+2020-09-03 * "DEPOSIT ONLINE 2969040 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3500.00 AUD
+  Assets:Westpac:Choice              
+
+2020-09-04 * "Debit Card Purchase 200 RMS Internet/Ivr   Surry Hills  Aus" ""
+  Assets:Westpac:OneMain     -58.00 AUD
+  Expenses:Business:Driving            
+
+2020-09-04 * "Debit Card Purchase Paypal *Ebay Au 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -8.45 AUD
+  Expenses:Paypal                  
+
+2020-09-04 * "Debit Card Purchase Paypal *Sunjiaoju Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -5.16 AUD
+  Expenses:Paypal                  
+
+2020-09-04 * "Debit Card Purchase Woolworths      1128 Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -4.91 AUD
+  Expenses:Food:Groceries           
+
+2020-09-08 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-09-08 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -4.97 AUD
+  Expenses:Food:Groceries           
+
+2020-09-08 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-09-09 * "WITHDRAWAL MOBILE 1525041 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -1000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-09-09 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -9.90 AUD
+  Expenses:Food:Restaurant           
+
+2020-09-09 * "Debit Card Purchase Paypal *Auscom Ebay Au 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -9.50 AUD
+  Expenses:Paypal                  
+
+2020-09-09 * "Debit Card Purchase Paypal *Xgf280502 Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -4.60 AUD
+  Expenses:Paypal                  
+
+2020-09-10 * "Eftpos Debit 0151482 Ikea Rhodes Rhodes        10/09" ""
+  Assets:Westpac:OneMain  -5.00 AUD
+  Expenses:IKEA                    
+
+2020-09-14 * "WITHDRAWAL MOBILE 1992660 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -5500.00 AUD
+  Assets:Westpac:Choice               
+
+2020-09-14 * "Debit Card Purchase Paypal *Vector Ol Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -15.07 AUD
+  Expenses:Paypal                   
+
+2020-09-14 * "Debit Card Purchase Paypal *Vector Ol Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -8.80 AUD
+  Expenses:Paypal                  
+
+2020-09-14 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5786.00 AUD
+  Expenses:Unknown                   
+
+2020-09-15 * "Debit Card Purchase Tong Li Supermarket    Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -12.46 AUD
+  Expenses:Food:Groceries            
+
+2020-09-16 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-09-16 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -5.88 AUD
+  Expenses:Food:Groceries           
+
+2020-09-17 * "Debit Card Purchase Target 5295 Rhodes       Aus" ""
+  Assets:Westpac:OneMain  -15.00 AUD
+  Expenses:Unknown                  
+
+2020-09-17 * "Debit Card Purchase Paypal *Arnival 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -7.00 AUD
+  Expenses:Paypal                  
+
+2020-09-21 * "Debit Card Purchase Woolworths      1128 Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -11.80 AUD
+  Expenses:Food:Groceries            
+
+2020-09-21 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2020-09-22 * "Debit Card Purchase Paypal *Steam Games 35314369001  GBR" ""
+  Assets:Westpac:OneMain  -21.50 AUD
+  Expenses:Paypal                   
+
+2020-09-22 * "Debit Card Purchase Aldi Stores - Wolli Cr Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -4.40 AUD
+  Expenses:Food:Groceries           
+
+2020-09-22 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-09-23 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -12.90 AUD
+  Expenses:Food:Restaurant            
+
+2020-09-23 * "Debit Card Purchase Paypal *Steam Games 35314369001  GBR" ""
+  Assets:Westpac:OneMain  -7.50 AUD
+  Expenses:Paypal                  
+
+2020-09-25 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -1.85 AUD
+  Expenses:Food:Groceries           
+
+2020-09-28 * "WITHDRAWAL MOBILE 1530062 P2M Therese Lu Vodka" ""
+  Assets:Westpac:OneMain  -14.00 AUD
+  Expenses:Unknown                  
+
+2020-09-28 * "WITHDRAWAL MOBILE 1484273 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -600.00 AUD
+  Assets:Westpac:Choice              
+
+2020-09-28 * "WITHDRAWAL-OSKO PAYMENT 1573118 T LUONG Vodka 27 SEP 2020" ""
+  Assets:Westpac:OneMain  -14.00 AUD
+  Expenses:Unknown                  
+
+2020-09-28 * "Debit Card Purchase Paypal *Ebay Au 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -9.95 AUD
+  Expenses:Paypal                  
+
+2020-09-29 * "Payment by Authority to Paypal Australia 1010531069056" ""
+  Assets:Westpac:OneMain  -17.99 AUD
+  Expenses:Paypal                   
+
+2020-09-29 * "DEBIT CARD PURCHASE Amazon Australia Servi MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain  -17.99 AUD
+  Expenses:Unknown                  
+
+2020-09-29 * "Debit Card Purchase PPR Uexp Pty LTD Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -12.95 AUD
+  Expenses:Unknown                  
+
+2020-09-30 * "WITHDRAWAL MOBILE 1201134 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -1500.00 AUD
+  Assets:Westpac:Choice               
+
+2020-09-30 * "Deposit-Salary Fowkner Pty LTD         Landlord TRF" ""
+  Assets:Westpac:OneMain  1759.80 AUD
+  Income:Wolli:Rent                  
+
+2020-10-01 * "Deposit Paypal Australia        1010549571673" ""
+  Assets:Westpac:OneMain  17.99 AUD
+  Expenses:Paypal                  
+
+2020-10-01 * "Reversal of Debit Transaction on   280920 Reference 1530062" ""
+  Assets:Westpac:OneMain  14.00 AUD
+  Expenses:Unknown                 
+
+2020-10-02 * "Debit Card Purchase Paypal *Patreon  Membe 4029357733   Usa" ""
+  Assets:Westpac:OneMain  -6.16 AUD
+  Expenses:Paypal                  
+
+2020-10-02 * "DEPOSIT ONLINE 2625870 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2020-10-05 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2837.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2020-10-05 * "Eftpos Debit 0928832 McDonalds Broadway  0044 Sydney      02/10" ""
+  Assets:Westpac:OneMain  -3.60 AUD
+  Expenses:Food:Lunch              
+
+2020-10-05 * "WITHDRAWAL MOBILE 1082403 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -500.00 AUD
+  Assets:Westpac:Choice              
+
+2020-10-05 * "Debit Card Purchase Paypal *Mwave 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -705.99 AUD
+  Expenses:Paypal                    
+
+2020-10-05 * "Debit Card Purchase Woolworths      1615 Sylvania     Aus" ""
+  Assets:Westpac:OneMain   -4.50 AUD
+  Expenses:Food:Groceries           
+
+2020-10-05 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.32 AUD
+  Expenses:Business:AWS            
+
+2020-10-05 * "DEPOSIT ONLINE 2128167 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  500.00 AUD
+  Assets:Westpac:Choice             
+
+2020-10-05 * "DEPOSIT ONLINE 2114449 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  500.00 AUD
+  Assets:Westpac:Choice             
+
+2020-10-06 * "WITHDRAWAL MOBILE 1062113 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -640.00 AUD
+  Assets:Westpac:Choice              
+
+2020-10-06 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -35.62 AUD
+  Expenses:Food:Groceries            
+
+2020-10-06 * "Debit Card Purchase Woolworths      1128 Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -6.75 AUD
+  Expenses:Food:Groceries           
+
+2020-10-06 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-10-07 * "Eftpos Debit 0370435 Uniqlo Sydney        06/10" ""
+  Assets:Westpac:OneMain             -14.90 AUD
+  Expenses:Shopping:Clothing:Uniqlo            
+
+2020-10-07 * "Debit Card Purchase Menya Chinatown Haymarket    Aus" ""
+  Assets:Westpac:OneMain    -14.03 AUD
+  Expenses:Food:Restaurant            
+
+2020-10-08 * "Eftpos Debit 0901402 Pline Ph Rhodes     0240 Rhodes      07/10" ""
+  Assets:Westpac:OneMain    -15.96 AUD
+  Expenses:HealthAndBeauty            
+
+2020-10-08 * "Debit Card Purchase Paypal *Gog 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -89.95 AUD
+  Expenses:Paypal                   
+
+2020-10-08 * "Debit Card Purchase Ocean Palace Pty LTD Rhodes       Aus" ""
+  Assets:Westpac:OneMain    -11.00 AUD
+  Expenses:Food:Restaurant            
+
+2020-10-08 * "Debit Card Purchase HBJN Pty LTD           Rhodes       Aus" ""
+  Assets:Westpac:OneMain  -8.50 AUD
+  Expenses:Unknown                 
+
+2020-10-09 * "Debit Card Purchase Service NSW 4056 Miranda      Aus" ""
+  Assets:Westpac:OneMain  -59.26 AUD
+  Expenses:Unknown                  
+
+2020-10-09 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -9.90 AUD
+  Expenses:Food:Restaurant           
+
+2020-10-09 * "DEPOSIT-OSKO PAYMENT 2945564 THERESE LUONG Sanitiser" ""
+  Assets:Westpac:OneMain  6.00 AUD
+  Expenses:Unknown                
+
+2020-10-12 * "Debit Card Purchase Eurobay Cafe Bar Brighton-Le- Aus" ""
+  Assets:Westpac:OneMain    -101.60 AUD
+  Expenses:Food:Restaurant             
+
+2020-10-12 * "Debit Card Purchase Bunnings 724000 Kirrawee     Aus" ""
+  Assets:Westpac:OneMain      -1.25 AUD
+  Expenses:Wolli:Maintenance           
+
+2020-10-12 * "DEPOSIT-OSKO PAYMENT 2046132 THERESE LUONG Dinner 10 OCT 2020" ""
+  Assets:Westpac:OneMain  50.80 AUD
+  Expenses:Unknown                 
+
+2020-10-13 * "Debit Card Purchase Paypal *Allbirds 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -310.00 AUD
+  Expenses:Paypal                    
+
+2020-10-13 * "Debit Card Purchase Decathlon (Australia Tempe        Aus" ""
+  Assets:Westpac:OneMain       -40.00 AUD
+  Expenses:Shopping:Equipment            
+
+2020-10-13 * "Debit Card Purchase Care Park Pty LTD Melbourne    Aus" ""
+  Assets:Westpac:OneMain  -12.29 AUD
+  Expenses:Unknown                  
+
+2020-10-13 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -9.90 AUD
+  Expenses:Food:Restaurant           
+
+2020-10-13 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -9.90 AUD
+  Expenses:Food:Restaurant           
+
+2020-10-14 * "Eftpos Debit 0158645 Ikea Rhodes Rhodes        14/10" ""
+  Assets:Westpac:OneMain  -2.01 AUD
+  Expenses:IKEA                    
+
+2020-10-14 * "Eftpos Debit 0153298 Ikea Rhodes Rhodes        14/10" ""
+  Assets:Westpac:OneMain  -1.50 AUD
+  Expenses:IKEA                    
+
+2020-10-14 * "WITHDRAWAL MOBILE 1275554 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -5000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-10-14 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5786.00 AUD
+  Expenses:Unknown                   
+
+2020-10-15 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -14.79 AUD
+  Expenses:Food:Groceries            
+
+2020-10-16 * "WITHDRAWAL-OSKO PAYMENT 1242905 T LUONG Parking Refund" ""
+  Assets:Westpac:OneMain  -3.86 AUD
+  Expenses:Unknown                 
+
+2020-10-19 * "Debit Card Purchase Woolworths      1128 Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -5.79 AUD
+  Expenses:Food:Groceries           
+
+2020-10-20 * "WITHDRAWAL MOBILE 1159012 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -640.00 AUD
+  Assets:Westpac:Choice              
+
+2020-10-20 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-10-21 * "Eftpos Debit 0160096 Ikea Rhodes Rhodes        21/10" ""
+  Assets:Westpac:OneMain  -59.98 AUD
+  Expenses:IKEA                     
+
+2020-10-21 * "Eftpos Debit 0085267 Ikea Rhodes Rhodes        21/10" ""
+  Assets:Westpac:OneMain  -10.95 AUD
+  Expenses:IKEA                     
+
+2020-10-21 * "Atm Deposit Handybank Rhodes 23221007 21/10/20" ""
+  Assets:Westpac:OneMain  180.00 AUD
+  Expenses:Unknown                  
+
+2020-10-22 * "Debit Card Purchase Tong Li Supermarket    Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -28.46 AUD
+  Expenses:Food:Groceries            
+
+2020-10-22 * "DEBIT CARD PURCHASE Sushi World Ultimo       AUS" ""
+  Assets:Westpac:OneMain    -6.50 AUD
+  Expenses:Food:Restaurant           
+
+2020-10-22 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2020-10-26 * "WITHDRAWAL MOBILE 1878017 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2020-10-26 * "Debit Card Purchase Speedway Petrole Rockdale     Aus" ""
+  Assets:Westpac:OneMain  -48.39 AUD
+  Expenses:Unknown                  
+
+2020-10-26 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-10-26 * "Debit Card Purchase Mai Viet Pty LTD Chippendale  Aus" ""
+  Assets:Westpac:OneMain    -13.90 AUD
+  Expenses:Food:Restaurant            
+
+2020-10-26 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -13.10 AUD
+  Expenses:Food:Groceries            
+
+2020-10-26 * "DEPOSIT KEVIN YING        Transfer" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Income:KevinYing                   
+
+2020-10-26 * "DEPOSIT KEVIN YING        Transfer" ""
+  Assets:Westpac:OneMain  1000.00 AUD
+  Income:KevinYing                   
+
+2020-10-28 * "Eftpos Debit 0281555 Ikea Rhodes Rhodes        28/10" ""
+  Assets:Westpac:OneMain  -14.00 AUD
+  Expenses:IKEA                     
+
+2020-10-28 * "Debit Card Purchase Tab Limited Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -10.00 AUD
+  Expenses:Unknown                  
+
+2020-10-29 * "Eftpos Debit 0267941 Ikea Rhodes Rhodes        29/10" ""
+  Assets:Westpac:OneMain  -50.98 AUD
+  Expenses:IKEA                     
+
+2020-10-30 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -9.90 AUD
+  Expenses:Food:Restaurant           
+
+2020-10-30 * "Deposit-Salary Fowkner Pty LTD         Landlord TRF" ""
+  Assets:Westpac:OneMain  870.92 AUD
+  Income:Wolli:Rent                 
+
+2020-11-02 * "Eftpos Debit 0180563 Ikea Tempe Tempe         01/11" ""
+  Assets:Westpac:OneMain  -41.97 AUD
+  Expenses:IKEA                     
+
+2020-11-02 * "WITHDRAWAL MOBILE 1857252 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -120.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-11-02 * "WITHDRAWAL MOBILE 1415662 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -1600.00 AUD
+  Assets:Westpac:Choice               
+
+2020-11-02 * "Withdrawal-Osko Payment 1170417 T Luong 01 Nov 2020" ""
+  Assets:Westpac:OneMain  -8.03 AUD
+  Expenses:Unknown                 
+
+2020-11-02 * "DEBIT CARD PURCHASE Killiney Kopitiam Chippendale  AUS" ""
+  Assets:Westpac:OneMain    -14.12 AUD
+  Expenses:Food:Restaurant            
+
+2020-11-02 * "Debit Card Purchase Paypal *Steam Games 35314369001  GBR" ""
+  Assets:Westpac:OneMain  -8.60 AUD
+  Expenses:Paypal                  
+
+2020-11-02 * "Debit Card Purchase Paypal *Patreon  Membe 4029357733   Usa" ""
+  Assets:Westpac:OneMain  -6.24 AUD
+  Expenses:Paypal                  
+
+2020-11-02 * "DEPOSIT Ying K        Hyaluronic Acid" ""
+  Assets:Westpac:OneMain  48.60 AUD
+  Expenses:Unknown                 
+
+2020-11-02 * "DEPOSIT ONLINE 2530362 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2020-11-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2837.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2020-11-03 * "WITHDRAWAL MOBILE 1028903 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -4000.00 AUD
+  Assets:Westpac:Choice               
+
+2020-11-03 * "Atm Deposit Handybank Rhodes 23221112 03/11/20" ""
+  Assets:Westpac:OneMain  300.00 AUD
+  Expenses:Unknown                  
+
+2020-11-03 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-11-04 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -18.60 AUD
+  Expenses:Food:Restaurant            
+
+2020-11-04 * "Debit Card Purchase Paypal *Wikipedia 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -3.35 AUD
+  Expenses:Paypal                  
+
+2020-11-04 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.32 AUD
+  Expenses:Business:AWS            
+
+2020-11-06 * "Debit Card Purchase Nytimes 800-698-4637 NLD" ""
+  Assets:Westpac:OneMain  -4.00 AUD
+  Expenses:Unknown                 
+
+2020-11-09 * "WITHDRAWAL MOBILE 1500280 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2020-11-09 * "WITHDRAWAL MOBILE 1344327 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -60.00 AUD
+  Assets:Macquarie:Transaction            
+
+2020-11-09 * "DEBIT CARD PURCHASE Alex Lee Kitchen Chippendale  AUS" ""
+  Assets:Westpac:OneMain    -12.98 AUD
+  Expenses:Food:Restaurant            
+
+2020-11-09 * "DEBIT CARD PURCHASE Amazon Australia Servi MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain  -5.99 AUD
+  Expenses:Unknown                 
+
+2020-11-09 * "DEPOSIT ONLINE 2607863 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  1295.00 AUD
+  Assets:Westpac:Choice              
+
+2020-11-10 * "Debit Card Purchase Insurance Claims Sis Brisbane     Aus" ""
+  Assets:Westpac:OneMain  -1295.00 AUD
+  Expenses:Unknown                    
+
+2020-11-10 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-11-11 * "Debit Card Purchase PPR Uexp Pty LTD Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -12.95 AUD
+  Expenses:Unknown                  
+
+2020-11-13 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-11-13 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5985.01 AUD
+  Expenses:Unknown                   
+
+2020-11-16 * "Eftpos Debit 0946879 McDonalds Broadway  0044 Sydney      13/11" ""
+  Assets:Westpac:OneMain  -7.10 AUD
+  Expenses:Food:Lunch              
+
+2020-11-16 * "Eftpos Debit 0271861 Ikea Rhodes Rhodes        14/11" ""
+  Assets:Westpac:OneMain  -14.99 AUD
+  Expenses:IKEA                     
+
+2020-11-16 * "WITHDRAWAL MOBILE 1489892 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -5980.00 AUD
+  Assets:Westpac:Choice               
+
+2020-11-16 * "Debit Card Purchase PPR Uexp Pty LTD Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -13.95 AUD
+  Expenses:Unknown                  
+
+2020-11-17 * "Debit Card Purchase Paypal *Joshseo77 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -198.39 AUD
+  Expenses:Paypal                    
+
+2020-11-17 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -1.23 AUD
+  Expenses:Food:Groceries           
+
+2020-11-17 * "Atm Deposit Handybank Town Hall Cd 23797160 17/11/20" ""
+  Assets:Westpac:OneMain  18.10 AUD
+  Expenses:Unknown                 
+
+2020-11-17 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-11-18 * "Eftpos Debit 0988572 McDonalds Broadway  0044 Sydney      17/11" ""
+  Assets:Westpac:OneMain  -4.45 AUD
+  Expenses:Food:Lunch              
+
+2020-11-18 * "Eftpos Debit 0379190 Uniqlo Sydney        17/11" ""
+  Assets:Westpac:OneMain             -39.80 AUD
+  Expenses:Shopping:Clothing:Uniqlo            
+
+2020-11-18 * "DEBIT CARD PURCHASE Amazon Australia Servi MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain  -3.79 AUD
+  Expenses:Unknown                 
+
+2020-11-19 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-11-23 * "Eftpos Debit 0907368 McDonalds Lakemba   0652 Lakemba     22/11" ""
+  Assets:Westpac:OneMain  -10.55 AUD
+  Expenses:Food:Lunch               
+
+2020-11-23 * "WITHDRAWAL MOBILE 1586262 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2020-11-23 * "WITHDRAWAL MOBILE 1187527 PYMT Kevin Ying Therese" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2020-11-23 * "Debit Card Purchase Ikea Rhodes            Rhodes       Aus" ""
+  Assets:Westpac:OneMain  -79.00 AUD
+  Expenses:IKEA                     
+
+2020-11-23 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2020-11-24 * "Debit Card Purchase PPR Uexp Pty LTD Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -12.95 AUD
+  Expenses:Unknown                  
+
+2020-11-25 * "Eftpos Debit 0990163 McDonalds Broadway  0044 Sydney      24/11" ""
+  Assets:Westpac:OneMain  -7.10 AUD
+  Expenses:Food:Lunch              
+
+2020-11-26 * "Debit Card Purchase Paypal *Ting Hui  Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -28.59 AUD
+  Expenses:Paypal                   
+
+2020-11-27 * "Debit Card Purchase Paypal *Jb Hi-Fi 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -42.00 AUD
+  Expenses:Paypal                   
+
+2020-11-30 * "Payment by Authority to RMS Etoll Ph:131 Rta2833231656" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2020-11-30 * "Debit Card Purchase Paypal *Steam Games 35314369001  GBR" ""
+  Assets:Westpac:OneMain  -42.47 AUD
+  Expenses:Paypal                   
+
+2020-11-30 * "Debit Card Purchase Decathlon (Australia Tempe        Aus" ""
+  Assets:Westpac:OneMain       -15.00 AUD
+  Expenses:Shopping:Equipment            
+
+2020-12-01 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-12-02 * "Debit Card Purchase Paypal *Steam Games 35314369001  GBR" ""
+  Assets:Westpac:OneMain  -28.76 AUD
+  Expenses:Paypal                   
+
+2020-12-02 * "Debit Card Purchase Paypal *Thegoodguys 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -26.95 AUD
+  Expenses:Paypal                   
+
+2020-12-02 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2020-12-02 * "Debit Card Purchase Target 5295 Rhodes       Aus" ""
+  Assets:Westpac:OneMain  -6.00 AUD
+  Expenses:Unknown                 
+
+2020-12-02 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -5.96 AUD
+  Expenses:Paypal                  
+
+2020-12-02 * "Debit Card Purchase Nytimes 800-698-4637 NLD" ""
+  Assets:Westpac:OneMain  -4.00 AUD
+  Expenses:Unknown                 
+
+2020-12-02 * "DEPOSIT ONLINE 2437552 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2020-12-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2837.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2020-12-04 * "Debit Card Purchase Paypal *Brilliant 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -140.79 AUD
+  Expenses:Paypal                    
+
+2020-12-04 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -28.57 AUD
+  Expenses:Food:Groceries            
+
+2020-12-04 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.31 AUD
+  Expenses:Business:AWS            
+
+2020-12-07 * "WITHDRAWAL MOBILE 1468941 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2020-12-07 * "Debit Card Purchase Taronga Conservation S Mosman       Aus" ""
+  Assets:Westpac:OneMain  -88.85 AUD
+  Expenses:Unknown                  
+
+2020-12-07 * "DEBIT CARD PURCHASE Sergio's Cakes Marrickville AUS" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2020-12-07 * "Debit Card Purchase Dan Murphy's    1467   Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain  -34.99 AUD
+  Expenses:Unknown                  
+
+2020-12-07 * "Debit Card Purchase Taronga Conservation S Mosman       Aus" ""
+  Assets:Westpac:OneMain  -19.00 AUD
+  Expenses:Unknown                  
+
+2020-12-07 * "DEPOSIT-OSKO PAYMENT 2041037 IAN LUONG Coffee Tabs 05 DEC 2020" ""
+  Assets:Westpac:OneMain  13.50 AUD
+  Expenses:Unknown                 
+
+2020-12-08 * "WITHDRAWAL-OSKO PAYMENT 1275198 Jie Huang" ""
+  Assets:Westpac:OneMain  -25.00 AUD
+  Expenses:Unknown                  
+
+2020-12-08 * "Debit Card Purchase Spotless Facility Se Mosman       Aus" ""
+  Assets:Westpac:OneMain  -20.50 AUD
+  Expenses:Unknown                  
+
+2020-12-08 * "Debit Card Purchase PPR Uexp Pty LTD Ultimo       Aus" ""
+  Assets:Westpac:OneMain  -13.95 AUD
+  Expenses:Unknown                  
+
+2020-12-08 * "DEBIT CARD PURCHASE Killiney Kopitiam Chippendale  AUS" ""
+  Assets:Westpac:OneMain    -12.09 AUD
+  Expenses:Food:Restaurant            
+
+2020-12-08 * "DEBIT CARD PURCHASE Mogu Mogu Oz Haymarket    AUS" ""
+  Assets:Westpac:OneMain    -12.00 AUD
+  Expenses:Food:Restaurant            
+
+2020-12-08 * "DEBIT CARD PURCHASE QSR Pty LTD Sydney       AUS" ""
+  Assets:Westpac:OneMain  -3.95 AUD
+  Expenses:Unknown                 
+
+2020-12-09 * "Eftpos Debit 0905292 Pline Ph Central Par0822 Chippendale 08/12" ""
+  Assets:Westpac:OneMain    -19.99 AUD
+  Expenses:HealthAndBeauty            
+
+2020-12-09 * "Debit Card Purchase Adidas Australia Pty Chippendale  Aus" ""
+  Assets:Westpac:OneMain  -100.00 AUD
+  Expenses:Unknown                   
+
+2020-12-09 * "DEBIT CARD PURCHASE CityHeroes Sydney       AUS" ""
+  Assets:Westpac:OneMain  -50.60 AUD
+  Expenses:Unknown                  
+
+2020-12-09 * "DEBIT CARD PURCHASE Amazon Australia Servi MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain  -16.99 AUD
+  Expenses:Unknown                  
+
+2020-12-09 * "DEBIT CARD PURCHASE Audible Australia MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain     -6.99 AUD
+  Expenses:Shopping:Audible           
+
+2020-12-09 * "Debit Card Purchase Maruyu Japanese Supqps Sydney       Aus" ""
+  Assets:Westpac:OneMain  -4.92 AUD
+  Expenses:Unknown                 
+
+2020-12-09 * "Debit Card Purchase Woolworths      1248 Town Hall    Aus" ""
+  Assets:Westpac:OneMain   -3.00 AUD
+  Expenses:Food:Groceries           
+
+2020-12-10 * "WITHDRAWAL MOBILE 1937892 PYMT Kevin Ying Therese" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2020-12-10 * "Debit Card Purchase Mai Viet Pty LTD Chippendale  Aus" ""
+  Assets:Westpac:OneMain    -13.90 AUD
+  Expenses:Food:Restaurant            
+
+2020-12-14 * "Payment by Authority to RMS Etoll Ph:131 Rta2844401088" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2020-12-15 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -12.50 AUD
+  Expenses:Food:Groceries            
+
+2020-12-15 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-12-15 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5985.01 AUD
+  Expenses:Unknown                   
+
+2020-12-16 * "WITHDRAWAL MOBILE 1288022 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -6500.00 AUD
+  Assets:Westpac:Choice               
+
+2020-12-18 * "Debit Card Purchase Aldi Stores - Wolli Cr Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -6.71 AUD
+  Expenses:Food:Groceries           
+
+2020-12-21 * "WITHDRAWAL MOBILE 1450105 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2020-12-21 * "Debit Card Purchase Kmart 1078 Sylvania     Aus" ""
+  Assets:Westpac:OneMain  -16.00 AUD
+  Expenses:Unknown                  
+
+2020-12-21 * "DEBIT CARD PURCHASE GYG Rhodes Rhodes       AUS" ""
+  Assets:Westpac:OneMain    -13.50 AUD
+  Expenses:Food:Restaurant            
+
+2020-12-21 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2020-12-21 * "DEPOSIT-OSKO PAYMENT 2325028 THERESE LUONG Refund Presents Overpaid" ""
+  Assets:Westpac:OneMain  62.50 AUD
+  Expenses:Unknown                 
+
+2020-12-22 * "Debit Card Purchase Decathlon (Australia Tempe        Aus" ""
+  Assets:Westpac:OneMain       -39.00 AUD
+  Expenses:Shopping:Equipment            
+
+2020-12-24 * "Debit Card Purchase Paypal *Jb Hi-Fi 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -22.00 AUD
+  Expenses:Paypal                   
+
+2020-12-29 * "Debit Card Purchase Paypal *Tianen Ebay Ti 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -16.95 AUD
+  Expenses:Paypal                   
+
+2020-12-29 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2020-12-30 * "Debit Card Purchase Nytimes 800-698-4637 Usa" ""
+  Assets:Westpac:OneMain  -4.00 AUD
+  Expenses:Unknown                 
+
+2020-12-31 * "Debit Card Purchase Paypal *Computerall 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -159.68 AUD
+  Expenses:Paypal                    
+
+2021-01-04 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2641.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2021-01-04 * "WITHDRAWAL MOBILE 1619749 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2021-01-04 * "WITHDRAWAL MOBILE 1147179 PYMT Kevin Ying Therese 100 Cash" ""
+  Assets:Westpac:OneMain        -53.10 AUD
+  Assets:Macquarie:Transaction            
+
+2021-01-04 * "Debit Card Purchase Coles 0706 Rhodes       Aus" ""
+  Assets:Westpac:OneMain   -19.50 AUD
+  Expenses:Food:Groceries            
+
+2021-01-04 * "Debit Card Purchase Guzman Y Gomez Surry Hills  Aus" ""
+  Assets:Westpac:OneMain    -9.90 AUD
+  Expenses:Food:Restaurant           
+
+2021-01-04 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -5.70 AUD
+  Expenses:Paypal                  
+
+2021-01-04 * "DEBIT CARD PURCHASE LINODE 8554546633   USA USD 0.42 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.56 AUD
+  Expenses:Unknown                 
+
+2021-01-04 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.30 AUD
+  Expenses:Business:AWS            
+
+2021-01-04 * "DEPOSIT ONLINE 2416481 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2021-01-08 * "Payment by Authority to RMS Etoll Ph:131 Rta2862471129" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2021-01-08 * "Eftpos Debit 0922162 McDonalds M4 West   0379 Eastern Cre 07/01" ""
+  Assets:Westpac:OneMain  -16.95 AUD
+  Expenses:Food:Lunch               
+
+2021-01-11 * "Eftpos Debit 0153203 Ikea Rhodes Rhodes        11/01" ""
+  Assets:Westpac:OneMain  -4.98 AUD
+  Expenses:IKEA                    
+
+2021-01-12 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-01-13 * "Debit Card Purchase Choice Marrickville Aus" ""
+  Assets:Westpac:OneMain   -157.95 AUD
+  Expenses:Leisure:Choice             
+
+2021-01-15 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5985.00 AUD
+  Expenses:Unknown                   
+
+2021-01-18 * "WITHDRAWAL MOBILE 1592283 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2021-01-18 * "WITHDRAWAL MOBILE 1066099 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -6800.00 AUD
+  Assets:Westpac:Choice               
+
+2021-01-18 * "Debit Card Purchase Paypal *Victor Bota 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -250.00 AUD
+  Expenses:Paypal                    
+
+2021-01-18 * "Debit Card Purchase Paypal *Dannclear Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -85.50 AUD
+  Expenses:Paypal                   
+
+2021-01-19 * "DEPOSIT ONLINE 2312765 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  100000.00 AUD
+  Assets:Westpac:Choice                
+
+2021-01-20 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2021-01-21 * "PAYMENT BY AUTHORITY TO WESTPAC SECURITI Westpac Securities" ""
+  Assets:Westpac:OneMain     -50000.00 AUD
+  Assets:Westpac:Securities               
+
+2021-01-21 * "WITHDRAWAL MOBILE 1514186 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -50000.00 AUD
+  Assets:Westpac:Choice                
+
+2021-01-21 * "Debit Card Purchase Paypal *Dddecshopcs Eb 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -17.95 AUD
+  Expenses:Paypal                   
+
+2021-01-21 * "DEPOSIT Terri Scheer        EFT0177557" ""
+  Assets:Westpac:OneMain  164.84 AUD
+  Expenses:Unknown                  
+
+2021-01-21 * "DEPOSIT ONLINE 2870410 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  500.00 AUD
+  Assets:Westpac:Choice             
+
+2021-01-21 * "DEPOSIT ONLINE 2540564 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  50000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-01-21 * "DEPOSIT ONLINE 2520483 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  300.00 AUD
+  Assets:Westpac:Choice             
+
+2021-01-22 * "Debit Card Purchase Inner Sydney Dermato Rhodes       Aus" ""
+  Assets:Westpac:OneMain  -400.00 AUD
+  Expenses:Unknown                   
+
+2021-01-22 * "Debit Card Purchase Paypal *Microsoft Stor 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -225.00 AUD
+  Expenses:Paypal                    
+
+2021-01-22 * "Deposit McAre Benefits        978032816 Eqcj" ""
+  Assets:Westpac:OneMain  121.95 AUD
+  Expenses:Unknown                  
+
+2021-01-25 * "Payment by Authority to RMS Etoll Ph:131 Rta2874566177" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2021-01-25 * "PAYMENT BY AUTHORITY TO WESTPAC SECURITI Westpac Securities" ""
+  Assets:Westpac:OneMain     -50000.00 AUD
+  Assets:Westpac:Securities               
+
+2021-01-25 * "DEBIT CARD PURCHASE Uniqlo Mid City Sydney       AUS" ""
+  Assets:Westpac:OneMain             -34.80 AUD
+  Expenses:Shopping:Clothing:Uniqlo            
+
+2021-01-27 * "Debit Card Purchase Nytimes 800-698-4637 Usa" ""
+  Assets:Westpac:OneMain  -4.00 AUD
+  Expenses:Unknown                 
+
+2021-01-27 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-01-28 * "DEPOSIT-OSKO PAYMENT 2906200 THERESE LUONG TFR" ""
+  Assets:Westpac:OneMain  100.00 AUD
+  Expenses:Unknown                  
+
+2021-01-29 * "DEBIT CARD PURCHASE ALI*www.taobao.com HANGZHOU     CHN CNY 134.72 Incl. Westpac Foreign Transaction Fee AUD $0.81" ""
+  Assets:Westpac:OneMain  -27.91 AUD
+  Expenses:Unknown                  
+
+2021-02-01 * "WITHDRAWAL MOBILE 1469685 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -50.00 AUD
+  Assets:Macquarie:Transaction            
+
+2021-02-01 * "WITHDRAWAL MOBILE 1166550 PYMT Kevin Ying Therese" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-02-01 * "WITHDRAWAL MOBILE 1161841 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -1000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-02-01 * "DEBIT CARD PURCHASE Sharesight Limited Wellington   AUS" ""
+  Assets:Westpac:OneMain  -171.00 AUD
+  Expenses:Unknown                   
+
+2021-02-01 * "Debit Card Purchase Paypal *Dominos 4029357733   Aus" ""
+  Assets:Westpac:OneMain    -33.85 AUD
+  Expenses:Food:Restaurant            
+
+2021-02-01 * "Debit Card Purchase Paypal *Yinyuandian Eb 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -16.24 AUD
+  Expenses:Paypal                   
+
+2021-02-01 * "Debit Card Purchase 85 Degrees Coffee Bu Burwood      Aus" ""
+  Assets:Westpac:OneMain  -12.60 AUD
+  Expenses:Unknown                  
+
+2021-02-02 * "Debit Card Purchase Paypal *Ebay Au 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -26.95 AUD
+  Expenses:Paypal                   
+
+2021-02-02 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -5.73 AUD
+  Expenses:Paypal                  
+
+2021-02-02 * "DEBIT CARD PURCHASE LINODE 8554546633   USA USD 0.78 Incl. Westpac Foreign Transaction Fee AUD $0.03" ""
+  Assets:Westpac:OneMain  -1.05 AUD
+  Expenses:Unknown                 
+
+2021-02-02 * "DEPOSIT ONLINE 2439567 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2021-02-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2641.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2021-02-04 * "DEBIT CARD PURCHASE GYG Rhodes Rhodes       AUS" ""
+  Assets:Westpac:OneMain    -13.50 AUD
+  Expenses:Food:Restaurant            
+
+2021-02-05 * "WITHDRAWAL-OSKO PAYMENT 1316849 Kevin Ying 63k Offset" ""
+  Assets:Westpac:OneMain  -5.00 AUD
+  Expenses:Unknown                 
+
+2021-02-05 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.30 AUD
+  Expenses:Business:AWS            
+
+2021-02-08 * "Payment by Authority to RMS Etoll Ph:131 Rta2884471313" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2021-02-08 * "Debit Card Refund Paypal *Dannclear Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  85.50 AUD
+  Expenses:Paypal                  
+
+2021-02-09 * "Debit Card Purchase Woolworths      1128 Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -52.54 AUD
+  Expenses:Food:Groceries            
+
+2021-02-09 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-02-10 * "Debit Card Purchase Woolworths      1284 Hurstville   Aus" ""
+  Assets:Westpac:OneMain   -35.00 AUD
+  Expenses:Food:Groceries            
+
+2021-02-11 * "WITHDRAWAL ONLINE 1153239 PYMT Kevin Ying Therese" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-02-11 * "Debit Card Purchase Gmhba Geelong      Aus" ""
+  Assets:Westpac:OneMain  -80.00 AUD
+  Expenses:Unknown                  
+
+2021-02-11 * "Debit Card Purchase Paypal *Wigglebug 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -64.99 AUD
+  Expenses:Paypal                   
+
+2021-02-15 * "WITHDRAWAL MOBILE 1681408 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-02-15 * "WITHDRAWAL MOBILE 1201550 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -6400.00 AUD
+  Assets:Westpac:Choice               
+
+2021-02-15 * "Debit Card Purchase Woolworths      1412 Eastgardens  Aus" ""
+  Assets:Westpac:OneMain   -15.00 AUD
+  Expenses:Food:Groceries            
+
+2021-02-15 * "Atm Deposit Handybank Pagewood 1 22324042 14/02/21" ""
+  Assets:Westpac:OneMain  350.00 AUD
+  Expenses:Unknown                  
+
+2021-02-15 * "Atm Deposit Handybank Pagewood CDM 23898211 14/02/21" ""
+  Assets:Westpac:OneMain  272.80 AUD
+  Expenses:Unknown                  
+
+2021-02-15 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5985.01 AUD
+  Expenses:Unknown                   
+
+2021-02-17 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -1.35 AUD
+  Expenses:Paypal                  
+
+2021-02-19 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2021-02-24 * "Debit Card Purchase Nytimes 800-698-4637 Usa" ""
+  Assets:Westpac:OneMain  -4.00 AUD
+  Expenses:Unknown                 
+
+2021-02-24 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-02-25 * "Debit Card Purchase Aldi Stores - Wolli Cr Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -3.60 AUD
+  Expenses:Food:Groceries           
+
+2021-03-01 * "Payment by Authority to Gmhba 314348" ""
+  Assets:Westpac:OneMain           -80.00 AUD
+  Expenses:Insurance:Health:Gmhba            
+
+2021-03-01 * "WITHDRAWAL MOBILE 1667897 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-03-02 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -7.03 AUD
+  Expenses:Paypal                  
+
+2021-03-02 * "DEPOSIT ONLINE 2564205 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2021-03-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2641.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2021-03-03 * "WITHDRAWAL-OSKO PAYMENT 1338625 Kevin Ying 63k Offset" ""
+  Assets:Westpac:OneMain  -2.01 AUD
+  Expenses:Unknown                 
+
+2021-03-03 * "Debit Card Purchase Myer  Sydney City      Sydney       Aus" ""
+  Assets:Westpac:OneMain       -89.99 AUD
+  Expenses:Shopping:Misc:Myer            
+
+2021-03-03 * "Debit Card Purchase Lenovo Australia Np Sydney       Aus" ""
+  Assets:Westpac:OneMain  -61.12 AUD
+  Expenses:Unknown                  
+
+2021-03-03 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.29 AUD
+  Expenses:Business:AWS            
+
+2021-03-04 * "Debit Card Purchase Paypal *Eagwell Inc Eb 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -20.99 AUD
+  Expenses:Paypal                   
+
+2021-03-05 * "Debit Card Purchase M J Bale Sydney       Aus" ""
+  Assets:Westpac:OneMain  -109.95 AUD
+  Expenses:Unknown                   
+
+2021-03-05 * "Debit Card Purchase Myer  Sydney City      Sydney       Aus" ""
+  Assets:Westpac:OneMain       -69.95 AUD
+  Expenses:Shopping:Misc:Myer            
+
+2021-03-05 * "Debit Card Purchase Paypal *Newbaleclot 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -61.50 AUD
+  Expenses:Paypal                   
+
+2021-03-05 * "Debit Card Refund Myer Sydney City      Sydney      Aus" ""
+  Assets:Westpac:OneMain       89.99 AUD
+  Expenses:Shopping:Misc:Myer           
+
+2021-03-08 * "Eftpos Debit 0081069 Ikea Rhodes Rhodes        06/03" ""
+  Assets:Westpac:OneMain  -11.00 AUD
+  Expenses:IKEA                     
+
+2021-03-08 * "WITHDRAWAL ONLINE 1256310 PYMT Kevin Ying HONGBAO" ""
+  Assets:Westpac:OneMain        -640.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-03-08 * "WITHDRAWAL ONLINE 1206211 PYMT Kevin Ying RECONCILIATION" ""
+  Assets:Westpac:OneMain        -526.70 AUD
+  Assets:Macquarie:Transaction             
+
+2021-03-08 * "Debit Card Purchase Paypal *Catchcomaup 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -90.05 AUD
+  Expenses:Paypal                   
+
+2021-03-08 * "Debit Card Purchase Paypal *FT.COM 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -1.00 AUD
+  Expenses:Paypal                  
+
+2021-03-08 * "DEPOSIT ONLINE 2383578 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  600.00 AUD
+  Assets:Westpac:Choice             
+
+2021-03-09 * "Debit Card Purchase Beem It                Sydney       Aus" ""
+  Assets:Westpac:OneMain  -500.00 AUD
+  Assets:BeemIT                      
+
+2021-03-09 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-03-09 * "Eftpos Credit 4977058 Beem It BEEM.COM.AU   09/03" ""
+  Assets:Westpac:OneMain  500.00 AUD
+  Assets:BeemIT                     
+
+2021-03-09 * "Eftpos Credit 4969070 Beem It BEEM.COM.AU   09/03" ""
+  Assets:Westpac:OneMain  263.35 AUD
+  Assets:BeemIT                     
+
+2021-03-12 * "Debit Card Refund Paypal *Catchcomaup 4029357733   Aus" ""
+  Assets:Westpac:OneMain  71.10 AUD
+  Expenses:Paypal                  
+
+2021-03-15 * "WITHDRAWAL MOBILE 1433180 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-03-15 * "Debit Card Purchase Paypal *Mightyape 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -94.90 AUD
+  Expenses:Paypal                   
+
+2021-03-15 * "DEPOSIT ONLINE 2083828 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  20000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-03-15 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5985.01 AUD
+  Expenses:Unknown                   
+
+2021-03-17 * "Payment by Authority to Westpac Securiti B Erth 35336077-00" ""
+  Assets:Westpac:OneMain  -9922.45 AUD
+  Expenses:Unknown                    
+
+2021-03-17 * "WITHDRAWAL-OSKO PAYMENT 1960750 BTC Markets Pty LTD" ""
+  Assets:Westpac:OneMain  -1000.00 AUD
+  Expenses:Unknown                    
+
+2021-03-17 * "WITHDRAWAL-OSKO PAYMENT 1112197 BTC Markets Pty LTD 100093096363404 100093096363404" ""
+  Assets:Westpac:OneMain  -1000.00 AUD
+  Expenses:Unknown                    
+
+2021-03-17 * "DEPOSIT-OSKO PAYMENT 2963598 BTC Markets Pty LTD Payment Returned Due to a Processin" ""
+  Assets:Westpac:OneMain  1000.00 AUD
+  Expenses:Unknown                   
+
+2021-03-22 * "Debit Card Purchase Paypal *Dominos 4029357733   Aus" ""
+  Assets:Westpac:OneMain    -36.90 AUD
+  Expenses:Food:Restaurant            
+
+2021-03-22 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2021-03-22 * "EFTPOS CREDIT 0258790 Beem It\\             20/03" ""
+  Assets:Westpac:OneMain  36.90 AUD
+  Assets:BeemIT                    
+
+2021-03-23 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-03-25 * "DEBIT CARD PURCHASE Kyo-to Spice Alley Chippendale  AUS" ""
+  Assets:Westpac:OneMain    -13.99 AUD
+  Expenses:Food:Restaurant            
+
+2021-03-26 * "Payment by Authority to Westpac Securiti B Art 35426641-00" ""
+  Assets:Westpac:OneMain  -494.51 AUD
+  Expenses:Unknown                   
+
+2021-03-29 * "WITHDRAWAL MOBILE 1510475 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-03-30 * "WITHDRAWAL MOBILE 1380244 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -27000.00 AUD
+  Assets:Westpac:Choice                
+
+2021-03-30 * "Deposit Westpac Securiti        S Art 35448950-00" ""
+  Assets:Westpac:OneMain  11331.47 AUD
+  Expenses:Unknown                    
+
+2021-03-31 * "DEBIT CARD PURCHASE Amazon Australia Servi MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain  -34.99 AUD
+  Expenses:Unknown                  
+
+2021-04-01 * "Payment by Authority to Gmhba 314348" ""
+  Assets:Westpac:OneMain           -85.95 AUD
+  Expenses:Insurance:Health:Gmhba            
+
+2021-04-06 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2641.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2021-04-06 * "Debit Card Purchase Paypal *FT.COM 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -279.00 AUD
+  Expenses:Paypal                    
+
+2021-04-06 * "Debit Card Purchase Paypal *Susheng0 Ebay 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -41.23 AUD
+  Expenses:Paypal                   
+
+2021-04-06 * "DEBIT CARD PURCHASE Amazon Australia Servi MELBOURNE    AUS" ""
+  Assets:Westpac:OneMain  -12.99 AUD
+  Expenses:Unknown                  
+
+2021-04-06 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -7.14 AUD
+  Expenses:Paypal                  
+
+2021-04-06 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 24.73 Incl. Westpac Foreign Transaction Fee AUD $0.97" ""
+  Assets:Westpac:OneMain  -33.51 AUD
+  Expenses:Business:AWS             
+
+2021-04-06 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.30 AUD
+  Expenses:Business:AWS            
+
+2021-04-06 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-04-06 * "Eftpos Credit 4984696 Beem It BEEM.COM.AU   04/04" ""
+  Assets:Westpac:OneMain  5.00 AUD
+  Assets:BeemIT                   
+
+2021-04-06 * "DEPOSIT ONLINE 2526585 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2021-04-12 * "WITHDRAWAL MOBILE 1504739 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-04-12 * "WITHDRAWAL-OSKO PAYMENT 1882683 S CACHUELA Yumcha Yumcha 11 APR 2021" ""
+  Assets:Westpac:OneMain  -44.00 AUD
+  Expenses:Unknown                  
+
+2021-04-13 * "Debit Card Purchase Specsavers Sydney Cent Sydney       Aus" ""
+  Assets:Westpac:OneMain  -269.00 AUD
+  Expenses:Unknown                   
+
+2021-04-14 * "Debit Card Purchase Beem It BEEM.COM.AU  Aus" ""
+  Assets:Westpac:OneMain  -100.00 AUD
+  Assets:BeemIT                      
+
+2021-04-15 * "Debit Card Purchase Paypal *Booktopiabo 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -92.47 AUD
+  Expenses:Paypal                   
+
+2021-04-15 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5985.00 AUD
+  Expenses:Unknown                   
+
+2021-04-16 * "DEBIT CARD PURCHASE HEROES CAPITAL 4153583636   USA USD 32.15 Incl. Westpac Foreign Transaction Fee AUD $1.26" ""
+  Assets:Westpac:OneMain  -43.40 AUD
+  Expenses:Unknown                  
+
+2021-04-19 * "Payment by Authority to RMS Etoll Ph:131 Rta2940385507" ""
+  Assets:Westpac:OneMain  -40.00 AUD
+  Expenses:Unknown                  
+
+2021-04-19 * "Eftpos Debit 0490069 Ikea Tempe Tempe         18/04" ""
+  Assets:Westpac:OneMain  -14.95 AUD
+  Expenses:IKEA                     
+
+2021-04-19 * "WITHDRAWAL-OSKO PAYMENT 1358376 Hutland Pty LTD Gk KY 080521 Gk KY 080521" ""
+  Assets:Westpac:OneMain  -1000.00 AUD
+  Expenses:Unknown                    
+
+2021-04-20 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2021-04-20 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-04-26 * "WITHDRAWAL MOBILE 1505670 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-04-26 * "Debit Card Purchase CZL Investments Pty Lt Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain    -21.00 AUD
+  Expenses:Food:Restaurant            
+
+2021-04-26 * "Debit Card Purchase Woolworths      1128 Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -11.59 AUD
+  Expenses:Food:Groceries            
+
+2021-04-28 * "EFTPOS DEBIT 0342602 Uniqlo Australia Pty LSydney        28/04" ""
+  Assets:Westpac:OneMain             -49.80 AUD
+  Expenses:Shopping:Clothing:Uniqlo            
+
+2021-04-29 * "Debit Card Purchase Google*domains Sydney       Aus" ""
+  Assets:Westpac:OneMain  -19.80 AUD
+  Expenses:Unknown                  
+
+2021-05-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2641.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2021-05-03 * "Payment by Authority to Gmhba 314348" ""
+  Assets:Westpac:OneMain           -85.95 AUD
+  Expenses:Insurance:Health:Gmhba            
+
+2021-05-03 * "EFTPOS DEBIT 0103178 Beem It\\             02/05" ""
+  Assets:Westpac:OneMain  -100.00 AUD
+  Assets:BeemIT                      
+
+2021-05-03 * "Debit Card Purchase Paypal *Alipaysinga Al 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -36.03 AUD
+  Expenses:Paypal                   
+
+2021-05-03 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -7.04 AUD
+  Expenses:Paypal                  
+
+2021-05-03 * "DEPOSIT ONLINE 2576495 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2021-05-04 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Westpac Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.30 AUD
+  Expenses:Business:AWS            
+
+2021-05-04 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-05-07 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 46.79 Incl. Westpac Foreign Transaction Fee AUD $1.82" ""
+  Assets:Westpac:OneMain  -62.69 AUD
+  Expenses:Business:AWS             
+
+2021-05-10 * "WITHDRAWAL MOBILE 1860693 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -6000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-05-10 * "WITHDRAWAL MOBILE 1575996 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-05-10 * "DEBIT CARD PURCHASE East Ocean Restaurant Haymarket    AUS" ""
+  Assets:Westpac:OneMain  -592.04 AUD
+  Expenses:Unknown                   
+
+2021-05-10 * "Debit Card Purchase Decathlon (Australia Tempe        Aus" ""
+  Assets:Westpac:OneMain       -22.00 AUD
+  Expenses:Shopping:Equipment            
+
+2021-05-10 * "DEBIT CARD PURCHASE KICKSTARTER: KALIMBAGO TORONTO      CAN CAD 103.00 Incl. Westpac Foreign Transaction Fee AUD $3.27" ""
+  Assets:Westpac:OneMain  -112.30 AUD
+  Expenses:Unknown                   
+
+2021-05-10 * "DEPOSIT KONG VU        TV Monch Bucks" ""
+  Assets:Westpac:OneMain  200.00 AUD
+  Expenses:Unknown                  
+
+2021-05-10 * "DEPOSIT-OSKO PAYMENT 2993870 IAN LUONG Monch Bucks 09 MAY 2021" ""
+  Assets:Westpac:OneMain  200.00 AUD
+  Expenses:Unknown                  
+
+2021-05-10 * "DEPOSIT-OSKO PAYMENT 2845941 JASON LIN Monch 09 MAY 2021" ""
+  Assets:Westpac:OneMain  313.00 AUD
+  Expenses:Unknown                  
+
+2021-05-10 * "DEPOSIT-OSKO PAYMENT 2758212 SIDNEY CACHUELA Luda 09 MAY 2021" ""
+  Assets:Westpac:OneMain  208.33 AUD
+  Income:SidneyCachuela             
+
+2021-05-10 * "DEPOSIT-OSKO PAYMENT 2753468 SIMON CHIOU Simon for Bux 09 MAY 2021" ""
+  Assets:Westpac:OneMain  443.00 AUD
+  Expenses:Unknown                  
+
+2021-05-10 * "DEPOSIT-OSKO PAYMENT 2191737 CHRISTOPHER ON Monchbux 09 MAY 2021" ""
+  Assets:Westpac:OneMain  442.74 AUD
+  Expenses:Unknown                  
+
+2021-05-10 * "DEPOSIT-OSKO PAYMENT 2110771 BENJAMIN LEE Ben Luddenham 09 MAY 2021" ""
+  Assets:Westpac:OneMain  200.00 AUD
+  Expenses:Unknown                  
+
+2021-05-11 * "Debit Card Purchase Bunnings 351000 Hillsdale    Aus" ""
+  Assets:Westpac:OneMain      -57.64 AUD
+  Expenses:Wolli:Maintenance            
+
+2021-05-12 * "WITHDRAWAL MOBILE 1379361 PYMT Kevin Ying Therese" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-05-12 * "WITHDRAWAL-OSKO PAYMENT 1297869 I LUONG Bday Mday Reconciliation Bday Mday Reconciliation" ""
+  Assets:Westpac:OneMain  -22.12 AUD
+  Expenses:Unknown                  
+
+2021-05-12 * "Debit Card Purchase Paypal *Steam Games 35314369001  GBR" ""
+  Assets:Westpac:OneMain  -28.95 AUD
+  Expenses:Paypal                   
+
+2021-05-12 * "Deposit-Osko Payment 2158223 Dene S Glavas" ""
+  Assets:Westpac:OneMain  200.00 AUD
+  Expenses:Unknown                  
+
+2021-05-14 * "WITHDRAWAL MOBILE 1227348 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -4000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-05-14 * "WITHDRAWAL MOBILE 1211850 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -2000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-05-14 * "Debit Card Purchase Nytimes 800-698-4637 Usa" ""
+  Assets:Westpac:OneMain  -3.29 AUD
+  Expenses:Unknown                 
+
+2021-05-14 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  5985.00 AUD
+  Expenses:Unknown                   
+
+2021-05-18 * "WITHDRAWAL MOBILE 1319533 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -500.00 AUD
+  Assets:Westpac:Choice              
+
+2021-05-18 * "WITHDRAWAL MOBILE 1136547 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -1000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-05-18 * "WITHDRAWAL-OSKO PAYMENT 1958063 Wise Australia Pty LTD" ""
+  Assets:Westpac:OneMain  -25.75 AUD
+  Expenses:Unknown                  
+
+2021-05-18 * "WITHDRAWAL-OSKO PAYMENT 1883031 Wise Australia Pty LTD Wise Wise" ""
+  Assets:Westpac:OneMain  -25.75 AUD
+  Expenses:Unknown                  
+
+2021-05-18 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-05-18 * "Deposit-Osko Payment 2161489 Jing Zhang" ""
+  Assets:Westpac:OneMain  250.00 AUD
+  Expenses:Unknown                  
+
+2021-05-19 * "DEBIT CARD PURCHASE Transferwise Australia Sydney       AUS" ""
+  Assets:Westpac:OneMain  -25.90 AUD
+  Expenses:Unknown                  
+
+2021-05-19 * "DEPOSIT Kevin Ying        248837891Refund" ""
+  Assets:Westpac:OneMain  25.75 AUD
+  Income:KevinYing                 
+
+2021-05-19 * "DEPOSIT Kevin Ying        248825607Refund" ""
+  Assets:Westpac:OneMain  25.75 AUD
+  Income:KevinYing                 
+
+2021-05-20 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2021-05-24 * "WITHDRAWAL MOBILE 1456467 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-05-26 * "Debit Card Purchase Transportfornsw Opal Chippendale  Aus" ""
+  Assets:Westpac:OneMain   -20.00 AUD
+  Expenses:Transport:Opal            
+
+2021-05-26 * "Debit Card Purchase Paypal *Digitocnser 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -16.48 AUD
+  Expenses:Paypal                   
+
+2021-05-28 * "DEPOSIT-OSKO PAYMENT 2285456 THERESE LUONG Face Serum" ""
+  Assets:Westpac:OneMain  12.70 AUD
+  Expenses:Unknown                 
+
+2021-05-28 * "DEPOSIT-OSKO PAYMENT 2201159 THERESE LUONG Gifts Zanzibar" ""
+  Assets:Westpac:OneMain  28.82 AUD
+  Expenses:Unknown                 
+
+2021-05-31 * "WITHDRAWAL ONLINE 1572809 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -5000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-05-31 * "Debit Card Purchase Big W           0146 Rockdale     Aus" ""
+  Assets:Westpac:OneMain  -30.00 AUD
+  Expenses:Unknown                  
+
+2021-05-31 * "Debit Card Purchase Primevideo Sydney       Aus" ""
+  Assets:Westpac:OneMain  -4.99 AUD
+  Expenses:Unknown                 
+
+2021-05-31 * "DEPOSIT-SALARY LONGAS TECH             Longas Salary" ""
+  Assets:Westpac:OneMain  4845.89 AUD
+  Expenses:Unknown                   
+
+2021-06-01 * "Payment by Authority to Gmhba 314348" ""
+  Assets:Westpac:OneMain           -85.95 AUD
+  Expenses:Insurance:Health:Gmhba            
+
+2021-06-01 * "Debit Card Purchase Amazon Au Sydney South Aus" ""
+  Assets:Westpac:OneMain  -86.20 AUD
+  Expenses:Unknown                  
+
+2021-06-01 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-06-02 * "WITHDRAWAL MOBILE 1600240 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -99.00 AUD
+  Assets:Macquarie:Transaction            
+
+2021-06-02 * "Debit Card Purchase Paypal *Patreon  Membe 402-935-7733 Usa" ""
+  Assets:Westpac:OneMain  -7.06 AUD
+  Expenses:Paypal                  
+
+2021-06-02 * "DEPOSIT ONLINE 2629207 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2021-06-03 * "Payment by Authority to Westpac Bankcorp Direct Dr183359831" ""
+  Assets:Westpac:OneMain            -2641.00 AUD
+  Expenses:Rhodes:Mortgage:Payment              
+
+2021-06-03 * "Debit Card Purchase Amazon MKTPLC Au Sydney South Aus" ""
+  Assets:Westpac:OneMain    -51.33 AUD
+  Expenses:Shopping:Amazon            
+
+2021-06-03 * "DEBIT CARD PURCHASE Syd Aprt Intnl Carp50 Sydney       AUS" ""
+  Assets:Westpac:OneMain  -9.90 AUD
+  Expenses:Unknown                 
+
+2021-06-07 * "Withdrawal at Cba Atm Discoverynsw 219995 036900 050621" ""
+  Assets:Westpac:OneMain  -20.00 AUD
+  Expenses:Cash                     
+
+2021-06-07 * "Withdrawal at Cba Atm Discoverynsw 219995 036899 050621" ""
+  Assets:Westpac:OneMain  -20.00 AUD
+  Expenses:Cash                     
+
+2021-06-07 * "WITHDRAWAL MOBILE 1423576 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-06-07 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 13.43 Incl. Foreign Transaction Fee AUD $0.52" ""
+  Assets:Westpac:OneMain  -18.09 AUD
+  Expenses:Business:AWS             
+
+2021-06-07 * "DEBIT CARD PURCHASE Amazon Web Services aws.amazon.c USA USD 0.22 Incl. Foreign Transaction Fee AUD $0.01" ""
+  Assets:Westpac:OneMain  -0.30 AUD
+  Expenses:Business:AWS            
+
+2021-06-08 * "DEPOSIT-OSKO PAYMENT 2194978 THERESE LUONG Wedding" ""
+  Assets:Westpac:OneMain  499.50 AUD
+  Expenses:Unknown                  
+
+2021-06-09 * "Debit Card Purchase Amazon MKTPLC Au Sydney South Aus" ""
+  Assets:Westpac:OneMain    -19.95 AUD
+  Expenses:Shopping:Amazon            
+
+2021-06-10 * "Debit Card Purchase Amazon MKTPLC Au Sydney South Aus" ""
+  Assets:Westpac:OneMain    -43.13 AUD
+  Expenses:Shopping:Amazon            
+
+2021-06-11 * "Debit Card Purchase Nytimes 800-698-4637 Usa" ""
+  Assets:Westpac:OneMain  -4.00 AUD
+  Expenses:Unknown                 
+
+2021-06-14 * "EFTPOS DEBIT 0353152 Uniqlo Australia Pty LHurstville    12/06" ""
+  Assets:Westpac:OneMain             -39.80 AUD
+  Expenses:Shopping:Clothing:Uniqlo            
+
+2021-06-14 * "EFTPOS DEBIT 0349307 Uniqlo Australia Pty LHurstville    13/06" ""
+  Assets:Westpac:OneMain             -5.90 AUD
+  Expenses:Shopping:Clothing:Uniqlo           
+
+2021-06-14 * "Debit Card Purchase Jb Home Hurstville Hurstville   Aus" ""
+  Assets:Westpac:OneMain  -1535.00 AUD
+  Expenses:Unknown                    
+
+2021-06-14 * "Debit Card Purchase Gio Brisbane     Aus" ""
+  Assets:Westpac:OneMain  -773.22 AUD
+  Expenses:Unknown                   
+
+2021-06-14 * "Debit Card Purchase Amazon MKTPLC Au Sydney South Aus" ""
+  Assets:Westpac:OneMain    -136.72 AUD
+  Expenses:Shopping:Amazon             
+
+2021-06-14 * "Debit Card Purchase Aldi Stores - Hurstvil Hurstville   Aus" ""
+  Assets:Westpac:OneMain   -100.47 AUD
+  Expenses:Food:Groceries             
+
+2021-06-14 * "Debit Card Purchase KFC Hurstville Mallqps Hurstville   Aus" ""
+  Assets:Westpac:OneMain    -11.95 AUD
+  Expenses:Food:Restaurant            
+
+2021-06-14 * "Debit Card Purchase Westfield Hurstvillqps Hurstville   Aus" ""
+  Assets:Westpac:OneMain  -9.00 AUD
+  Expenses:Unknown                 
+
+2021-06-14 * "DEPOSIT ONLINE 2201194 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  3000.00 AUD
+  Assets:Westpac:Choice              
+
+2021-06-14 * "DEPOSIT 2187949 LINH LUONG Ipad" ""
+  Assets:Westpac:OneMain  492.00 AUD
+  Expenses:Unknown                  
+
+2021-06-15 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+2021-06-16 * "Debit Card Purchase Gio CTP Brisbane     Aus" ""
+  Assets:Westpac:OneMain  -740.92 AUD
+  Expenses:Unknown                   
+
+2021-06-16 * "Debit Card Purchase Aldi Stores - Wolli Cr Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -5.50 AUD
+  Expenses:Food:Groceries           
+
+2021-06-17 * "Debit Card Purchase Paypal *Steam Games 35314369001  GBR" ""
+  Assets:Westpac:OneMain  -5.37 AUD
+  Expenses:Paypal                  
+
+2021-06-18 * "Debit Card Purchase Paypal *Ebay Au 4029357733   Aus" ""
+  Assets:Westpac:OneMain  -6.49 AUD
+  Expenses:Paypal                  
+
+2021-06-18 * "Debit Card Refund Amazon MKTPLC Au       Sydney South Aus" ""
+  Assets:Westpac:OneMain    51.33 AUD
+  Expenses:Shopping:Amazon           
+
+2021-06-18 * "Deposit-Salary Illumina Austral        00000000" ""
+  Assets:Westpac:OneMain  7735.64 AUD
+  Expenses:Unknown                   
+
+2021-06-21 * "Eftpos Debit 0927426 McDonalds Rockdale  1045 Rockdale Dc 18/06" ""
+  Assets:Westpac:OneMain  -22.75 AUD
+  Expenses:Food:Lunch               
+
+2021-06-21 * "WITHDRAWAL MOBILE 1666885 PYMT Kevin Ying" ""
+  Assets:Westpac:OneMain        -100.00 AUD
+  Assets:Macquarie:Transaction             
+
+2021-06-21 * "WITHDRAWAL ONLINE 1192499 TFR Westpac Cho" ""
+  Assets:Westpac:OneMain  -9000.00 AUD
+  Assets:Westpac:Choice               
+
+2021-06-21 * "Debit Card Purchase Aldi Stores - Wolli Cr Wolli Creek  Aus" ""
+  Assets:Westpac:OneMain   -22.46 AUD
+  Expenses:Food:Groceries            
+
+2021-06-21 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -10.20 AUD
+  Expenses:Utilities:Mobile:Yomojo            
+
+2021-06-21 * "Debit Card Purchase Sec*yomojo Melbourne    Aus" ""
+  Assets:Westpac:OneMain            -5.10 AUD
+  Expenses:Utilities:Mobile:Yomojo           
+
+2021-06-23 * "Debit Card Purchase Amazon MKTPLC Au Sydney South Aus" ""
+  Assets:Westpac:OneMain    -46.10 AUD
+  Expenses:Shopping:Amazon            
+
+2021-06-24 * "Debit Card Purchase Amazon MKTPLC Au Sydney South Aus" ""
+  Assets:Westpac:OneMain    -719.20 AUD
+  Expenses:Shopping:Amazon             
+
+2021-06-24 * "DEBIT CARD PURCHASE Sharesight Limited Wellington   AUS" ""
+  Assets:Westpac:OneMain  -76.76 AUD
+  Expenses:Unknown                  
+
+2021-06-29 * "Withdrawal Mobile 1378952 Bpay SNSW" ""
+  Assets:Westpac:OneMain  -381.00 AUD
+  Expenses:Unknown                   
+
+2021-06-29 * "DEPOSIT GERALDINE SUWANG        Rent" ""
+  Assets:Westpac:OneMain  640.00 AUD
+  Income:Geraldine                  
+
+

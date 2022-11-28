@@ -1,0 +1,76 @@
+;; -*- mode: beancount -*-
+**** /home/kevin/dev/kev/finance/finances/data/new_raws/commbank_loan_9832_CSVData.csv
+
+2020-07-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  286.00 AUD
+  Expenses:Unknown                
+
+2020-07-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -132.16 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-08-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  276.00 AUD
+  Expenses:Unknown                
+
+2020-08-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -162.96 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-08-27 * "Repayment Redraw NetBank" ""
+  Assets:Commbank:Loan  -1134.00 AUD
+  Expenses:Unknown                  
+
+2020-09-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  276.00 AUD
+  Expenses:Unknown                
+
+2020-09-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -166.21 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-10-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  276.00 AUD
+  Expenses:Unknown                
+
+2020-10-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -162.17 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-11-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  276.00 AUD
+  Expenses:Unknown                
+
+2020-11-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -169.25 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-12-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  276.00 AUD
+  Expenses:Unknown                
+
+2020-12-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -167.29 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2021-01-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  276.00 AUD
+  Expenses:Unknown                
+
+2021-01-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -173.88 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2021-01-19 * "Fee for attending settlement" ""
+  Assets:Commbank:Loan  -350.00 AUD
+  Expenses:Wolli:Fees              
+
+2021-01-19 * "Interest charged" ""
+  Assets:Commbank:Loan             -101.43 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2021-01-19 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  61007.97 AUD
+  Expenses:Unknown                  
+
+

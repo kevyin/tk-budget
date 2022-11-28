@@ -1,0 +1,68 @@
+;; -*- mode: beancount -*-
+**** /home/kevin/dev/kev/finance/finances/data/new_raws/commbank_loan_9883_CSVData.csv
+
+2020-07-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  633.01 AUD
+  Expenses:Unknown                
+
+2020-07-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -633.01 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-08-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  671.77 AUD
+  Expenses:Unknown                
+
+2020-08-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -671.77 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-09-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  671.59 AUD
+  Expenses:Unknown                
+
+2020-09-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -671.59 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-10-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  649.79 AUD
+  Expenses:Unknown                
+
+2020-10-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -649.79 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-11-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  673.44 AUD
+  Expenses:Unknown                
+
+2020-11-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -673.44 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2020-12-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  658.82 AUD
+  Expenses:Unknown                
+
+2020-12-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -658.82 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2021-01-01 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  681.22 AUD
+  Expenses:Unknown                
+
+2021-01-01 * "Interest charged" ""
+  Assets:Commbank:Loan             -681.22 AUD
+  Expenses:Wolli:MortgageInterest             
+
+2021-01-19 * "Repayment/Payment" ""
+  Assets:Commbank:Loan  217379.25 AUD
+  Expenses:Unknown                   
+
+2021-01-21 * "Interest charged" ""
+  Assets:Commbank:Loan             -395.98 AUD
+  Expenses:Wolli:MortgageInterest             
+
+
